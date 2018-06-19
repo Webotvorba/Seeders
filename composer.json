@@ -1,0 +1,12 @@
+{
+    "name": "webotvorba/seeders",
+    "description": "Database seeders",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Michael",
+            "email": "tichon@webotvorba.sk"
+        }
+    ],
+    "require": {}
+}
