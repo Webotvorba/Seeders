@@ -1,0 +1,723 @@
+[
+  {
+    "menu_id": "1",
+    "menu_name": "Kateg\u00f3rie",
+    "menu_desc": "",
+    "menu_url": "kategorie",
+    "menu_child": "0",
+    "menu_ico": "fal fa--tags",
+    "menu_vis": "1",
+    "menu_order": "1"
+  },
+  {
+    "menu_id": "2",
+    "menu_name": "Zobrazi\u0165 kateg\u00f3rie",
+    "menu_desc": "Mo\u017enos\u0165 maza\u0165, upravova\u0165 a pres\u00fava\u0165 kateg\u00f3rie v menu",
+    "menu_url": "kategorie\/zobrazit",
+    "menu_child": "1",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "2"
+  },
+  {
+    "menu_id": "3",
+    "menu_name": "Nov\u00e1 kateg\u00f3ria",
+    "menu_desc": "Mo\u017enos\u0165 vytvori\u0165 nov\u00fa polo\u017eku v menu",
+    "menu_url": "kategorie\/nova",
+    "menu_child": "1",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "3"
+  },
+  {
+    "menu_id": "5",
+    "menu_name": "\u010cl\u00e1nky",
+    "menu_desc": "",
+    "menu_url": "clanky",
+    "menu_child": "0",
+    "menu_ico": "fal fa--edit",
+    "menu_vis": "1",
+    "menu_order": "10"
+  },
+  {
+    "menu_id": "6",
+    "menu_name": "Zobrazi\u0165 \u010dl\u00e1nky",
+    "menu_desc": "Mo\u017enos\u0165 upravova\u0165 a maza\u0165 \u010dl\u00e1nky",
+    "menu_url": "clanky\/zobrazit",
+    "menu_child": "5",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "11"
+  },
+  {
+    "menu_id": "7",
+    "menu_name": "Nov\u00fd \u010dl\u00e1nok",
+    "menu_desc": "Mo\u017enos\u0165 upravova\u0165 \u010dl\u00e1nky",
+    "menu_url": "clanky\/novy",
+    "menu_child": "5",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "12"
+  },
+  {
+    "menu_id": "10",
+    "menu_name": "Slideshow",
+    "menu_desc": "",
+    "menu_url": "slider",
+    "menu_child": "0",
+    "menu_ico": "fal fa--image",
+    "menu_vis": "1",
+    "menu_order": "20"
+  },
+  {
+    "menu_id": "11",
+    "menu_name": "Zobrazi\u0165 obr\u00e1zky",
+    "menu_desc": "Mo\u017enos\u0165 meni\u0165, pres\u00fava\u0165 a maza\u0165 obr\u00e1zky v slidery",
+    "menu_url": "slider\/zobrazit",
+    "menu_child": "10",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "21"
+  },
+  {
+    "menu_id": "12",
+    "menu_name": "Prida\u0165 obr\u00e1zky",
+    "menu_desc": "Mo\u017enos\u0165 prida\u0165 obr\u00e1zky do slidera",
+    "menu_url": "slider\/novy",
+    "menu_child": "10",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "22"
+  },
+  {
+    "menu_id": "13",
+    "menu_name": "Nastavenia",
+    "menu_desc": "",
+    "menu_url": "nastavenia",
+    "menu_child": "0",
+    "menu_ico": "fal fa--cogs",
+    "menu_vis": "1",
+    "menu_order": "40"
+  },
+  {
+    "menu_id": "14",
+    "menu_name": "Z\u00e1kladn\u00e9 nastavenia",
+    "menu_desc": "Mo\u017enos\u0165 meni\u0165 z\u00e1kladn\u00e9 nastavenia",
+    "menu_url": "nastavenia\/zakladne",
+    "menu_child": "13",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "41"
+  },
+  {
+    "menu_id": "15",
+    "menu_name": "Nastavenia kontaktn\u00e9ho formul\u00e1ra",
+    "menu_desc": "Mo\u017enos\u0165 prid\u00e1va\u0165, upravova\u0165 a maza\u0165 kontaktn\u00e9 e-maily",
+    "menu_url": "nastavenia\/emaily",
+    "menu_child": "13",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "42"
+  },
+  {
+    "menu_id": "16",
+    "menu_name": "Nastavenie prihl\u00e1senia",
+    "menu_desc": "Mo\u017enos\u0165 nastavi\u0165 ochranu prihlasovania",
+    "menu_url": "nastavenia\/prihlasenie",
+    "menu_child": "13",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "43"
+  },
+  {
+    "menu_id": "17",
+    "menu_name": "Nastavenie str\u00e1nkovania",
+    "menu_desc": "Mo\u017enos\u0165 zmeni\u0165 nastavenia str\u00e1nkovania",
+    "menu_url": "nastavenia\/strankovanie",
+    "menu_child": "13",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "44"
+  },
+  {
+    "menu_id": "19",
+    "menu_name": "Zmena pr\u00edstupov\u00fdch \u00fadajov",
+    "menu_desc": "Mo\u017enos\u0165 zmeni\u0165 vlastn\u00e9 prihlasovacie \u00fadaje",
+    "menu_url": "nastavenia\/pristup",
+    "menu_child": "13",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "47"
+  },
+  {
+    "menu_id": "20",
+    "menu_name": "Zak\u00e1zan\u00e9 \u0161t\u00e1ty",
+    "menu_desc": "Mo\u017enos\u0165 vybra\u0165 \u0161t\u00e1ty, ktor\u00e9 nebud\u00fa ma\u0165 pr\u00edstup na str\u00e1nku",
+    "menu_url": "nastavenia\/zakazane_staty",
+    "menu_child": "13",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "49"
+  },
+  {
+    "menu_id": "21",
+    "menu_name": "Logy",
+    "menu_desc": "",
+    "menu_url": "logy",
+    "menu_child": "0",
+    "menu_ico": "fal fa--envelope",
+    "menu_vis": "1",
+    "menu_order": "50"
+  },
+  {
+    "menu_id": "22",
+    "menu_name": "Z\u00e1znam prihl\u00e1sen\u00ed",
+    "menu_desc": "Mo\u017enos\u0165 zobrazi\u0165 z\u00e1znam o prihasovan\u00ed",
+    "menu_url": "logy\/prihlasenie",
+    "menu_child": "21",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "51"
+  },
+  {
+    "menu_id": "23",
+    "menu_name": "Z\u00e1znam ch\u00fdb",
+    "menu_desc": "Mo\u017enos\u0165 zobrazi\u0165 z\u00e1znam o chyb\u00e1ch",
+    "menu_url": "logy\/chyby",
+    "menu_child": "21",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "52"
+  },
+  {
+    "menu_id": "24",
+    "menu_name": "Administr\u00e1tori",
+    "menu_desc": "",
+    "menu_url": "administratori",
+    "menu_child": "0",
+    "menu_ico": "fal fa--user",
+    "menu_vis": "1",
+    "menu_order": "60"
+  },
+  {
+    "menu_id": "25",
+    "menu_name": "Zobrazi\u0165 administr\u00e1torov",
+    "menu_desc": "Mo\u017enos\u0165 meni\u0165 e-maily, hesl\u00e1 a mo\u017enos\u0165 maza\u0165 vytvoren\u00fdch administr\u00e1torov",
+    "menu_url": "administratori\/zobrazit",
+    "menu_child": "24",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "61"
+  },
+  {
+    "menu_id": "26",
+    "menu_name": "Prida\u0165 administr\u00e1tora",
+    "menu_desc": "Mo\u017enos\u0165 prida\u0165 administr\u00e1torov",
+    "menu_url": "administratori\/pridat",
+    "menu_child": "24",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "62"
+  },
+  {
+    "menu_id": "27",
+    "menu_name": "Statick\u00e9 texty",
+    "menu_desc": "Statick\u00e9 texty, ktor\u00e9 sa zobrazuj\u00fa v bo\u010dn\u00fdch paneloch",
+    "menu_url": "staticke_texty",
+    "menu_child": "0",
+    "menu_ico": "fal fa--font",
+    "menu_vis": "1",
+    "menu_order": "70"
+  },
+  {
+    "menu_id": "28",
+    "menu_name": "Zobrazi\u0165 statick\u00e9 texty",
+    "menu_desc": "Zoznam statick\u00fdch textov",
+    "menu_url": "staticke_texty\/zobrazit",
+    "menu_child": "27",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "71"
+  },
+  {
+    "menu_id": "29",
+    "menu_name": "Prida\u0165 statick\u00e9 texty",
+    "menu_desc": "Mo\u017enos\u0165 prid\u00e1va\u0165 statick\u00e9 texty",
+    "menu_url": "staticke_texty\/novy",
+    "menu_child": "27",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "72"
+  },
+  {
+    "menu_id": "31",
+    "menu_name": "Reklamy",
+    "menu_desc": "Mo\u017enos\u0165 prid\u00e1va\u0165 reklamy",
+    "menu_url": "reklamy",
+    "menu_child": "0",
+    "menu_ico": "fal fa--euro-sign",
+    "menu_vis": "1",
+    "menu_order": "80"
+  },
+  {
+    "menu_id": "32",
+    "menu_name": "Zobrazi\u0165 reklamy",
+    "menu_desc": "Mo\u017enos\u0165 zobrazi\u0165 a upravi\u0165 reklamy",
+    "menu_url": "reklamy\/zobrazit",
+    "menu_child": "31",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "81"
+  },
+  {
+    "menu_id": "33",
+    "menu_name": "Prida\u0165 reklamy",
+    "menu_desc": "Mo\u017enos\u0165 prida\u0165 reklamy",
+    "menu_url": "reklamy\/nova",
+    "menu_child": "31",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "82"
+  },
+  {
+    "menu_id": "34",
+    "menu_name": "Produkty",
+    "menu_desc": "Mo\u017enos\u0165 prid\u00e1vania produktov, v\u00fdrobcov, cie\u013eov",
+    "menu_url": "produkty",
+    "menu_child": "0",
+    "menu_ico": "fal fa--sitemap",
+    "menu_vis": "1",
+    "menu_order": "90"
+  },
+  {
+    "menu_id": "35",
+    "menu_name": "Zobrazi\u0165 produkty",
+    "menu_desc": "Zobrazi\u0165 produkty",
+    "menu_url": "produkty\/zobrazit",
+    "menu_child": "34",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "91"
+  },
+  {
+    "menu_id": "36",
+    "menu_name": "Nov\u00fd produkt",
+    "menu_desc": "Prid\u00e1vanie nov\u00e9ho produktu",
+    "menu_url": "produkty\/novy",
+    "menu_child": "34",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "92"
+  },
+  {
+    "menu_id": "38",
+    "menu_name": "Prida\u0165 v\u00fdrobcu",
+    "menu_desc": "Prida\u0165 v\u00fdrobcov",
+    "menu_url": "produkty\/pridat_vyrobcu",
+    "menu_child": "34",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "94"
+  },
+  {
+    "menu_id": "39",
+    "menu_name": "Zobrazi\u0165 v\u00fdrobcov",
+    "menu_desc": "Upravovanie v\u00fdrobcov",
+    "menu_url": "produkty\/vyrobcovia",
+    "menu_child": "34",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "95"
+  },
+  {
+    "menu_id": "40",
+    "menu_name": "Ciele",
+    "menu_desc": "Zobrazi\u0165 ciele, prid\u00e1va\u0165, upravova\u0165",
+    "menu_url": "ciele",
+    "menu_child": "0",
+    "menu_ico": "fal fa--compass",
+    "menu_vis": "1",
+    "menu_order": "100"
+  },
+  {
+    "menu_id": "41",
+    "menu_name": "Zobrazi\u0165 ciele",
+    "menu_desc": "Zobrazi\u0165, upravova\u0165, maza\u0165 ciele",
+    "menu_url": "ciele\/zobrazit",
+    "menu_child": "40",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "101"
+  },
+  {
+    "menu_id": "42",
+    "menu_name": "Nov\u00fd cie\u013e",
+    "menu_desc": "Prida\u0165 cie\u013e",
+    "menu_url": "ciele\/novy",
+    "menu_child": "40",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "102"
+  },
+  {
+    "menu_id": "44",
+    "menu_name": "U\u017e\u00edvatelia",
+    "menu_desc": "Zoznam u\u017e\u00edvate\u013eov",
+    "menu_url": "uzivatelia",
+    "menu_child": "0",
+    "menu_ico": "fal fa--users",
+    "menu_vis": "1",
+    "menu_order": "110"
+  },
+  {
+    "menu_id": "45",
+    "menu_name": "Zobrazi\u0165 u\u017e\u00edvate\u013eov",
+    "menu_desc": "Zobrazi\u0165, upravova\u0165, maza\u0165 u\u017e\u00edvate\u013eov",
+    "menu_url": "uzivatelia\/zobrazit",
+    "menu_child": "44",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "111"
+  },
+  {
+    "menu_id": "46",
+    "menu_name": "Objedn\u00e1vky",
+    "menu_desc": "Zobrazi\u0165 objedn\u00e1vky",
+    "menu_url": "objednavky",
+    "menu_child": "0",
+    "menu_ico": "fal fa--list-alt",
+    "menu_vis": "1",
+    "menu_order": "120"
+  },
+  {
+    "menu_id": "47",
+    "menu_name": "Zobrazi\u0165 objedn\u00e1vky",
+    "menu_desc": "Zobrazi\u0165 objedn\u00e1vky, meni\u0165 stav objedn\u00e1vky",
+    "menu_url": "objednavky\/zobrazit",
+    "menu_child": "46",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "121"
+  },
+  {
+    "menu_id": "48",
+    "menu_name": "Kup\u00f3ny",
+    "menu_desc": "Z\u013eavov\u00e9 kup\u00f3ny",
+    "menu_url": "kupony",
+    "menu_child": "0",
+    "menu_ico": "fal fa--percent",
+    "menu_vis": "1",
+    "menu_order": "130"
+  },
+  {
+    "menu_id": "49",
+    "menu_name": "Zobrazi\u0165 kup\u00f3ny",
+    "menu_desc": "Prid\u00e1vanie, upravovanie, mazanie kup\u00f3nov",
+    "menu_url": "kupony\/zobrazit",
+    "menu_child": "48",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "131"
+  },
+  {
+    "menu_id": "50",
+    "menu_name": "Nov\u00fd kup\u00f3n",
+    "menu_desc": "Prida\u0165 z\u013eavov\u00fd kup\u00f3n",
+    "menu_url": "kupony\/novy",
+    "menu_child": "48",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "132"
+  },
+  {
+    "menu_id": "51",
+    "menu_name": "Koment\u00e1re",
+    "menu_desc": "Mo\u017enos\u0165 schva\u013eova\u0165 a maza\u0165 koment\u00e1re",
+    "menu_url": "komentare",
+    "menu_child": "0",
+    "menu_ico": "fal fa--comment",
+    "menu_vis": "1",
+    "menu_order": "140"
+  },
+  {
+    "menu_id": "52",
+    "menu_name": "Zobrazi\u0165 koment\u00e1re ",
+    "menu_desc": "Koment\u00e1re ku produktom",
+    "menu_url": "komentare\/produkty",
+    "menu_child": "51",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "142"
+  },
+  {
+    "menu_id": "53",
+    "menu_name": "Emaily a sms",
+    "menu_desc": "Mo\u017enos\u0165 upravova\u0165 e-maily a sms spr\u00e1vy",
+    "menu_url": "spravy",
+    "menu_child": "0",
+    "menu_ico": "fal fa--at",
+    "menu_vis": "1",
+    "menu_order": "150"
+  },
+  {
+    "menu_id": "54",
+    "menu_name": "Zobrazi\u0165 e-maily",
+    "menu_desc": "Upravovanie e-mailov",
+    "menu_url": "spravy\/emaily",
+    "menu_child": "53",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "151"
+  },
+  {
+    "menu_id": "55",
+    "menu_name": "Zobrazi\u0165 SMS",
+    "menu_desc": "Upravovanie SMS spr\u00e1v",
+    "menu_url": "spravy\/sms",
+    "menu_child": "53",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "152"
+  },
+  {
+    "menu_id": "56",
+    "menu_name": "Sp\u00f4sob dodania",
+    "menu_desc": "Administr\u00e1cia sp\u00f4sobov dodania tovaru",
+    "menu_url": "dodanie",
+    "menu_child": "0",
+    "menu_ico": "fal fa--truck",
+    "menu_vis": "1",
+    "menu_order": "160"
+  },
+  {
+    "menu_id": "57",
+    "menu_name": "Zobrazi\u0165 sp\u00f4soby dodania",
+    "menu_desc": "",
+    "menu_url": "dodanie\/zobrazit",
+    "menu_child": "56",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "161"
+  },
+  {
+    "menu_id": "58",
+    "menu_name": "Prida\u0165 sp\u00f4sob dodania",
+    "menu_desc": "Prid\u00e1vania a \u00faprava",
+    "menu_url": "dodanie\/novy",
+    "menu_child": "56",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "162"
+  },
+  {
+    "menu_id": "59",
+    "menu_name": "\u0160tatistika",
+    "menu_desc": "Mesa\u010dn\u00e9 \u0161tatistiky",
+    "menu_url": "statistika",
+    "menu_child": "0",
+    "menu_ico": "fal fa--chart-line",
+    "menu_vis": "1",
+    "menu_order": "170"
+  },
+  {
+    "menu_id": "60",
+    "menu_name": "Predaj",
+    "menu_desc": "Mesa\u010dn\u00fd preh\u013ead objedn\u00e1vok",
+    "menu_url": "statistika\/predaj",
+    "menu_child": "59",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "171"
+  },
+  {
+    "menu_id": "61",
+    "menu_name": "N\u00e1v\u0161tevnos\u0165",
+    "menu_desc": "N\u00e1v\u0161tevnos\u0165",
+    "menu_url": "statistika\/navstevnost",
+    "menu_child": "59",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "172"
+  },
+  {
+    "menu_id": "63",
+    "menu_name": "Platobne moduly",
+    "menu_desc": "Mo\u017enosti platobn\u00fdch modulov",
+    "menu_url": "platby",
+    "menu_child": "0",
+    "menu_ico": "fal fa--credit-card",
+    "menu_vis": "1",
+    "menu_order": "180"
+  },
+  {
+    "menu_id": "64",
+    "menu_name": "Platobne moduly - popis",
+    "menu_desc": "Popis platobn\u00fdch modulov",
+    "menu_url": "platby\/upravit",
+    "menu_child": "63",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "181"
+  },
+  {
+    "menu_id": "65",
+    "menu_name": "Ostatn\u00e9",
+    "menu_desc": "",
+    "menu_url": "ostatne",
+    "menu_child": "0",
+    "menu_ico": "fal fa--cog",
+    "menu_vis": "1",
+    "menu_order": "200"
+  },
+  {
+    "menu_id": "66",
+    "menu_name": "Export",
+    "menu_desc": "Export",
+    "menu_url": "ostatne\/export",
+    "menu_child": "65",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "201"
+  },
+  {
+    "menu_id": "67",
+    "menu_name": "Import",
+    "menu_desc": "Import",
+    "menu_url": "ostatne\/import",
+    "menu_child": "65",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "202"
+  },
+  {
+    "menu_id": "68",
+    "menu_name": "Gal\u00e9ria",
+    "menu_desc": "Gal\u00e9ria",
+    "menu_url": "galeria",
+    "menu_child": "0",
+    "menu_ico": "",
+    "menu_vis": "0",
+    "menu_order": "210"
+  },
+  {
+    "menu_id": "69",
+    "menu_name": "Export emailov",
+    "menu_desc": "Export emailov",
+    "menu_url": "ostatne\/export_emailov",
+    "menu_child": "65",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "205"
+  },
+  {
+    "menu_id": "70",
+    "menu_name": "N\u00e1klady",
+    "menu_desc": "N\u00e1klady",
+    "menu_url": "naklady",
+    "menu_child": "0",
+    "menu_ico": "fal fa--money-bill-alt",
+    "menu_vis": "1",
+    "menu_order": "210"
+  },
+  {
+    "menu_id": "71",
+    "menu_name": "Preh\u013ead",
+    "menu_desc": "Preh\u013ead n\u00e1kladov",
+    "menu_url": "naklady\/prehlad",
+    "menu_child": "70",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "211"
+  },
+  {
+    "menu_id": "72",
+    "menu_name": "Prida\u0165 polo\u017eku",
+    "menu_desc": "Prida\u0165 polo\u017eku do n\u00e1kladov",
+    "menu_url": "naklady\/pridat",
+    "menu_child": "70",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "212"
+  },
+  {
+    "menu_id": "73",
+    "menu_name": "Zobrazi\u0165 u\u017e\u00edvate\u013esk\u00e9 skupiny",
+    "menu_desc": "Administr\u00e1cia u\u017e\u00edvate\u013esk\u00fdch skup\u00edn",
+    "menu_url": "uzivatelia\/skupiny",
+    "menu_child": "44",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "112"
+  },
+  {
+    "menu_id": "74",
+    "menu_name": "Prida\u0165 u\u017e\u00edvate\u013esk\u00fa skupiny",
+    "menu_desc": "Administr\u00e1cia u\u017e\u00edvate\u013esk\u00fdch skup\u00edn",
+    "menu_url": "uzivatelia\/pridat_skupinu",
+    "menu_child": "44",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "113"
+  },
+  {
+    "menu_id": "75",
+    "menu_name": "Akcie",
+    "menu_desc": "Administr\u00e1cia akci\u00ed",
+    "menu_url": "akcie",
+    "menu_child": "0",
+    "menu_ico": "fal fa--percent",
+    "menu_vis": "1",
+    "menu_order": "220"
+  },
+  {
+    "menu_id": "76",
+    "menu_name": "Zobrazi\u0165 akcie",
+    "menu_desc": "Zoznam akci\u00ed",
+    "menu_url": "akcie\/zobrazit",
+    "menu_child": "75",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "221"
+  },
+  {
+    "menu_id": "77",
+    "menu_name": "Prida\u0165 akciu",
+    "menu_desc": "Prida\u0165 akciu",
+    "menu_url": "akcie\/pridat",
+    "menu_child": "75",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "222"
+  },
+  {
+    "menu_id": "78",
+    "menu_name": "Po\u0161ta export",
+    "menu_desc": "",
+    "menu_url": "ostatne\/posta_export",
+    "menu_child": "65",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "203"
+  },
+  {
+    "menu_id": "80",
+    "menu_name": "Koment\u00e1re k \u010dl\u00e1nkom",
+    "menu_desc": "Koment\u00e1re k \u010dl\u00e1nkom",
+    "menu_url": "https:\/\/developers.facebook.com\/tools\/comments\/",
+    "menu_child": "5",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "13"
+  },
+  {
+    "menu_id": "81",
+    "menu_name": "Generova\u0165 kup\u00f3ny",
+    "menu_desc": "Generova\u0165 kup\u00f3ny",
+    "menu_url": "kupony\/generovat",
+    "menu_child": "48",
+    "menu_ico": "",
+    "menu_vis": "1",
+    "menu_order": "133"
+  }
+]
+

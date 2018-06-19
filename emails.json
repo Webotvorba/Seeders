@@ -1,0 +1,54 @@
+[
+  {
+    "email_id": "1",
+    "email_name": "registration"
+  },
+  {
+    "email_id": "2",
+    "email_name": "new_pw"
+  },
+  {
+    "email_id": "3",
+    "email_name": "new_pw2"
+  },
+  {
+    "email_id": "4",
+    "email_name": "order_new"
+  },
+  {
+    "email_id": "5",
+    "email_name": "order_confirmed"
+  },
+  {
+    "email_id": "6",
+    "email_name": "order_payment"
+  },
+  {
+    "email_id": "7",
+    "email_name": "order_sent"
+  },
+  {
+    "email_id": "8",
+    "email_name": "autoreply"
+  },
+  {
+    "email_id": "10",
+    "email_name": "invoice"
+  },
+  {
+    "email_id": "11",
+    "email_name": "review"
+  },
+  {
+    "email_id": "12",
+    "email_name": "new_msg"
+  },
+  {
+    "email_id": "13",
+    "email_name": "payment_error"
+  },
+  {
+    "email_id": "14",
+    "email_name": "system"
+  }
+]
