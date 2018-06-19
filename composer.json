@@ -1,12 +1,7 @@
 {
-    "name": "webotvorba/seeders",
+    "name": "webotvorba/db-seeders",
     "description": "Database seeders",
-    "type": "library",
-    "authors": [
-        {
-            "name": "Michael",
-            "email": "tichon@webotvorba.sk"
-        }
-    ],
-    "require": {}
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+    }
 }
