@@ -1,0 +1,101 @@
+[
+  {
+    "lang_id": "1",
+    "lang_name": "sloven\u010dina",
+    "lang_showname": "Sloven\u010dina",
+    "lang_abbr": "SK",
+    "lang_active": "1",
+    "lang_redirect": "1",
+    "lang_tld": "sk"
+  },
+  {
+    "lang_id": "2",
+    "lang_name": "angli\u010dtina",
+    "lang_showname": "English",
+    "lang_abbr": "EN",
+    "lang_active": "1",
+    "lang_redirect": "1",
+    "lang_tld": "eu"
+  },
+  {
+    "lang_id": "3",
+    "lang_name": "nem\u010dina",
+    "lang_showname": "Deutsch",
+    "lang_abbr": "DE",
+    "lang_active": "1",
+    "lang_redirect": "1",
+    "lang_tld": "de"
+  },
+  {
+    "lang_id": "4",
+    "lang_name": "\u0161paniel\u010dina",
+    "lang_showname": "Espa\u00f1ol",
+    "lang_abbr": "ES",
+    "lang_active": "0",
+    "lang_redirect": "1",
+    "lang_tld": "es"
+  },
+  {
+    "lang_id": "5",
+    "lang_name": "franc\u00faz\u0161tina",
+    "lang_showname": "Fran\u00e7ais",
+    "lang_abbr": "FR",
+    "lang_active": "1",
+    "lang_redirect": "1",
+    "lang_tld": "fr"
+  },
+  {
+    "lang_id": "6",
+    "lang_name": "talian\u010dina",
+    "lang_showname": "Italiano",
+    "lang_abbr": "IT",
+    "lang_active": "0",
+    "lang_redirect": "1",
+    "lang_tld": "it"
+  },
+  {
+    "lang_id": "7",
+    "lang_name": "\u010de\u0161tina",
+    "lang_showname": "\u010cesky",
+    "lang_abbr": "CZ",
+    "lang_active": "0",
+    "lang_redirect": "1",
+    "lang_tld": "cz"
+  },
+  {
+    "lang_id": "8",
+    "lang_name": "ma\u010far\u010dina",
+    "lang_showname": "magyar",
+    "lang_abbr": "HU",
+    "lang_active": "1",
+    "lang_redirect": "1",
+    "lang_tld": "hu"
+  },
+  {
+    "lang_id": "9",
+    "lang_name": "po\u013e\u0161tina",
+    "lang_showname": "Polski",
+    "lang_abbr": "PL",
+    "lang_active": "0",
+    "lang_redirect": "1",
+    "lang_tld": "pl"
+  },
+  {
+    "lang_id": "10",
+    "lang_name": "holand\u010dina",
+    "lang_showname": "Dutch",
+    "lang_abbr": "NL",
+    "lang_active": "0",
+    "lang_redirect": "1",
+    "lang_tld": "nl"
+  },
+  {
+    "lang_id": "11",
+    "lang_name": "rumun\u010dina",
+    "lang_showname": "Rom\u00e2n\u0103",
+    "lang_abbr": "RO",
+    "lang_active": "1",
+    "lang_redirect": "1",
+    "lang_tld": "ro"
+  }
+]
