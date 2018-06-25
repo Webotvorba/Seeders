@@ -1,54 +1,5 @@
 [
   {
-    "ptext_id": "1",
-    "ptext_lang": "3",
-    "ptext_mid": "1",
-    "ptext_subject": "Registrieren",
-    "ptext_mail": "<p>Hallo {name} {surnname},<\/p>\r\n\r\n<p>Ihre Registrierung war erfolgreich. Willkommen bei<\/p>\r\n\r\n<p>Ihre E-Mail-Login: {email}<br \/>\r\nIhr Passwort: {pwd}<\/p>\r\n\r\n<p>Sind Sie nicht in der Lage, Ihr Konto mittels SMS-Nachrichten zu aktivieren, aktivieren Sie es durch Anklicken des folgenden Links: <a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>Mit freundlichen Gr\u00fc\u00dfen,<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "2",
-    "ptext_lang": "3",
-    "ptext_mid": "2",
-    "ptext_subject": "Passwort vergessen",
-    "ptext_mail": "<p>Hallo {name} {surname},<\/p>\r\n\r\n<p>auf Wunsch senden wir Ihnen einen Link, der Sie ein neues Passwort generieren. Wenn Sie keine \u00c4nderung beantragt haben, ignorieren Sie diese e-Mail.<\/p>\r\n\r\n<p>Link: <a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>Mit freundlichen Gr\u00fc\u00dfen,<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "3",
-    "ptext_lang": "3",
-    "ptext_mid": "3",
-    "ptext_subject": "Neues Passwort",
-    "ptext_mail": "<p>Hallo {name} {surname}<\/p>\r\n\r\n<p>auf Wunsch senden wir Ihnen eine neue Anmeldung auf der Seite ....<\/p>\r\n\r\n<p>Ihre E-Mail-Login: {email}<br \/>\r\nIhr Passwort: {pwd}<\/p>\r\n\r\n<p>Sie k\u00f6nnen Ihr Passwort im Bereich Profil \u00e4ndern.<\/p>\r\n\r\n<p>Mit freundlichen Gr\u00fc\u00dfen,<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "4",
-    "ptext_lang": "3",
-    "ptext_mid": "4",
-    "ptext_subject": "Neuer Bestell",
-    "ptext_mail": "<p>Hallo {name} {surname}<\/p>\r\n\r\n<div>\r\n<p>Bitte best\u00e4tigen Sie die Bestellung Nr. Sie k\u00f6nnen Ihre Bestellung unter dem folgenden Link best\u00e4tigen: <a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>Nach Best\u00e4tigung der Bestellung senden wir Ihnen die Zahlungsinformationen.<\/p>\r\n<\/div>\r\n\r\n<p>Mit freundlichen Gr\u00fc\u00dfen,<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "5",
-    "ptext_lang": "3",
-    "ptext_mid": "5",
-    "ptext_subject": "Best\u00e4tigten Bestellung",
-    "ptext_mail": "<p>Hallo {name} {surname},<\/p>\r\n\r\n<p>Wir nehmen Ihre Bestellung Nr {ordernum} gem\u00e4\u00df den allgemeinen Gesch\u00e4ftsbedingungen. Der Gesamtpreis Ihrer Bestellung: {sum} &euro;<\/p>\r\n\r\n<p>Wir bitten Sie, zahlen auf das Konto:<br \/>\r\nEmpf\u00e4nger: Spolok mlad\u00fdch vedcov<br \/>\r\nBank Account Number (IBAN):&nbsp;SK13 5600 0000 0041 0481 2001&nbsp;<br \/>\r\nSWIFT:&nbsp;KOMASK2X<br \/>\r\nBank: Primabanka Slovakia<br \/>\r\nAdresse:&nbsp;Hod\u017eova 11, 010 11, \u017dilina<\/p>\r\n\r\n<p>Wir tun alles, um sicherzustellen, dass Ihre Bestellung innerhalb von 48 Stunden nach Zahlungseingang versandt worden ist. Die Expedition der Bestellung, die Sie per e-Mail und SMS informiert werden. F\u00fcr die Personenbef\u00f6rderung werden Sie in die Zeile mit der Nummer Ihrer Sendung auf die Uhr, am Tag der Expedition gesendet.<\/p>\r\n\r\n<p>Mit freundlichen Gr\u00fc\u00dfen,<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "6",
-    "ptext_lang": "3",
-    "ptext_mid": "6",
-    "ptext_subject": "Zahlung erhalten",
-    "ptext_mail": "<p>Hallo {name} {surname},<\/p>\r\n\r\n<p>Wir&nbsp; freuen uns, Ihnen mitteilen zu k\u00f6nnen, dass wir die Zahlung f\u00fcr den Auftrag, Nr.&nbsp; {ordernum} erhalten. Wir tun alles, um sicherzustellen, dass Ihre Bestellung innerhalb von 48 Stunden versandt worden ist. Die Expedition der Bestellung, die Sie per e-Mail und SMS informiert werden. F\u00fcr die Personenbef\u00f6rderung&nbsp; werden Sie in die Zeile mit der Nummer Ihrer Sendung auf die Uhr, am Tag der Expedition gesendet.<\/p>\r\n\r\n<p>Mit freundlichen Gr\u00fc\u00dfen,<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "7",
-    "ptext_lang": "3",
-    "ptext_mid": "7",
-    "ptext_subject": "Bestellung gesendet",
-    "ptext_mail": "<p>Hallo&nbsp;{name} {surname},<\/p>\r\n\r\n<p>Wir k\u00fcndigen Ihnen, dass Ihre Bestellung Nr.&nbsp;{ordernum} wurde geschickt. Link zu verfolgen:&nbsp; <a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>Mit freundlichen Gr\u00fc\u00dfen,<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
     "ptext_id": "8",
     "ptext_lang": "1",
     "ptext_mid": "1",
@@ -105,174 +56,6 @@
     "ptext_mail": "<p>Ahoj,<\/p>\r\n\r\n<p>\u010fakujeme za Tvoj&nbsp;e-mail. Odpovieme Ti hne\u010f ako to len bude mo\u017en\u00e9! Pam\u00e4taj ale \u017ee cez v\u00edkend oddychujeme.&nbsp;&nbsp;<\/p>\r\n"
   },
   {
-    "ptext_id": "16",
-    "ptext_lang": "3",
-    "ptext_mid": "8",
-    "ptext_subject": "Autoreply",
-    "ptext_mail": "<p>Hallo,<\/p>\r\n\r\n<p>Danke f\u00fcr sein interesse. Wir antworten Ihnen innerhalb von Par Stunden.<\/p>\r\n\r\n<p>Mit freundlichen Gr\u00fc\u00dfen,<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "18",
-    "ptext_lang": "4",
-    "ptext_mid": "1",
-    "ptext_subject": "Registro",
-    "ptext_mail": "<p>Buenos d\u00edas {name} {surname},<\/p>\r\n\r\n<p>Su registro se ha realizado con \u00e9xito. Le damos la bienvenida.<\/p>\r\n\r\n<p>Su e-mail: {email}<br \/>\r\nSu contrase\u00f1a: {pwd}<\/p>\r\n\r\n<p>Si no le ha sido posible activar la cuenta mediante mensaje SMS, act\u00edvala haciendo clic en el siguiente enlace : {link}<\/p>\r\n\r\n<p>Un saludo<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "19",
-    "ptext_lang": "4",
-    "ptext_mid": "2",
-    "ptext_subject": "Contrase\u00f1a olvidada",
-    "ptext_mail": "<p>Buenos d\u00edas {name} {surname},<\/p>\r\n\r\n<p>en su petici\u00f3n le estamos enviando el v\u00ednculo que le proporciona una nueva contrase\u00f1a. Si Usted no lo ha solicitado, por favor ignore este e-mail.<\/p>\r\n\r\n<p>Enlace: {link}<\/p>\r\n\r\n<p>Un saludo<br \/>\r\nMalayTiger-shop.com<br \/>\r\ninfo@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "20",
-    "ptext_lang": "4",
-    "ptext_mid": "3",
-    "ptext_subject": "Nueva contrase\u00f1a",
-    "ptext_mail": "<p>Buenos d\u00edas {name} {surname},<\/p>\r\n\r\n<p>en su petici\u00f3n le estamos enviando nuevos datos para poder iniciar sesi\u00f3n...<\/p>\r\n\r\n<p>Su e-mail: {email}<br \/>\r\nSu nueva contrase\u00f1a: {pwd}<\/p>\r\n\r\n<p>La contrase\u00f1a puede Usted cambiar posteriormente en la secci\u00f3n Perfil.<\/p>\r\n\r\n<p>Un saludo<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "21",
-    "ptext_lang": "4",
-    "ptext_mid": "4",
-    "ptext_subject": "Nuevo pedido",
-    "ptext_mail": "<p>Buenos d\u00edas {name} {surname},<\/p>\r\n\r\n<p>por favor, confirme el pedido n. {ordernum}. El pedido puede confirmar en el siguiente enlace: {link}<\/p>\r\n\r\n<p>Al confirmar el pedido le enviaremos informaci\u00f3n sobre el pago.<\/p>\r\n\r\n<p>Un saludo<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "22",
-    "ptext_lang": "4",
-    "ptext_mid": "5",
-    "ptext_subject": "Pedido confirmado",
-    "ptext_mail": "<p>Buenos d\u00edas {name} {surname},<\/p>\r\n\r\n<p>el pedido n. {ordernum}&nbsp; ha sido aceptado de acuerdo con los t\u00e9rminos y condiciones. El precio total del pedido: {sum} &euro;<\/p>\r\n\r\n<p>Por favor realizar el pago en la cuenta bancaria:<br \/>\r\nDestinatario:&nbsp;Spolok mlad\u00fdch vedcov<br \/>\r\nBank account (IBAN):&nbsp;SK13 5600 0000 0041 0481 2001<br \/>\r\nSWIFT:&nbsp;KOMASK2X<br \/>\r\nBank:&nbsp;Primabanka Slovakia<br \/>\r\nAddressa:&nbsp;Hod\u017eova 11, 010 11, \u017dilina<\/p>\r\n\r\n<p>Haremos todo lo posible para que su pedido salga en 48 horas despu\u00e9s de confirmaci\u00f3n de pago. Se le informar\u00e1 sobre trayecto de su pedido por correo electr\u00f3nico y SMS. Los env\u00edos por mensajer\u00eda puede seguir con el n\u00famero de su env\u00edo en enlace que le mandamos&nbsp; a su correo electr\u00f3nico, a\u00fan en el mismo d\u00eda del env\u00edo.<\/p>\r\n\r\n<p>Un saludo<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "23",
-    "ptext_lang": "4",
-    "ptext_mid": "6",
-    "ptext_subject": "Pago recibido",
-    "ptext_mail": "<p>Buenos d\u00edas {name} {surname},<\/p>\r\n\r\n<p>Le informamos que el pago por el pedido n.{ordernum} fue realizado con \u00e9xito y haremos todo lo posible para que su pedido salga en 48 horas. Se le enviar\u00e1 un email o un mensaje SMS sobre estado de su pedido. Los env\u00edos por mensajer\u00eda puede seguir con el n\u00famero de su env\u00edo en enlace que le mandamos&nbsp; a su correo electr\u00f3nico, a\u00fan en el mismo d\u00eda del env\u00edo.<\/p>\r\n\r\n<p>Un saludo<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "24",
-    "ptext_lang": "4",
-    "ptext_mid": "7",
-    "ptext_subject": "Pedido enviado",
-    "ptext_mail": "<p>Buenos d\u00edas {name} {surname},<\/p>\r\n\r\n<p>le informamos que su pedido n.{ordernum} ha sido enviado. Enlace de seguimiento: {link}<\/p>\r\n\r\n<p>Un saludo<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "25",
-    "ptext_lang": "4",
-    "ptext_mid": "8",
-    "ptext_subject": "Autoreply",
-    "ptext_mail": "<p>Hello, thank you for contacting us. We tend to answer to our customers within few hours. Best regards Malaytiger-shop.com E-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "26",
-    "ptext_lang": "6",
-    "ptext_mid": "1",
-    "ptext_subject": "Registrazione",
-    "ptext_mail": "<p>Buongiorno {name} {surname},<\/p>\r\n\r\n<p>La tua registrazione ha avuto successo. Benvenuto sul sito<\/p>\r\n\r\n<p>Nome utente: {email}<br \/>\r\nPassword: {pwd}<\/p>\r\n\r\n<p>Se non sei riuscito ad attivare il tuo account tramite SMS, attivalo facendo clic sul seguente link: {link}<\/p>\r\n\r\n<p>Cordialmente<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "27",
-    "ptext_lang": "6",
-    "ptext_mid": "2",
-    "ptext_subject": "Password dimenticata",
-    "ptext_mail": "<p>Buongiorno {name} {surname},<\/p>\r\n\r\n<p>in seguito alla tua richiesta ti inviamo il link che generer\u00e0 una nuova password. Se non hai richiesto una modifica, si prega di ignorare questa e-mail.<\/p>\r\n\r\n<p>Link: {link}<\/p>\r\n\r\n<p>Cordialmente<br \/>\r\nMalayTiger-shop.com<br \/>\r\ninfo@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "28",
-    "ptext_lang": "6",
-    "ptext_mid": "3",
-    "ptext_subject": "Nuova password",
-    "ptext_mail": "<p>Buongiorno {name} {surname},<\/p>\r\n\r\n<p>In seguito alla tua richiesta ti inviamo nuovi dati di accesso su ....<\/p>\r\n\r\n<p>Nome utente: {email}<br \/>\r\nNuova password: {pwd}<\/p>\r\n\r\n<p>\u00c8 possibile modificare la password nella sezione Profilo.<\/p>\r\n\r\n<p>Cordialmente<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "29",
-    "ptext_lang": "6",
-    "ptext_mid": "4",
-    "ptext_subject": "Nuovo ordine",
-    "ptext_mail": "<p>Buongiorno {name} {surname},<\/p>\r\n\r\n<p>si prega di confermare l&lsquo;ordine n. {ordernum}. L&rsquo;ordine pu\u00f2 essere confermato tramite il seguente link: {link}<\/p>\r\n\r\n<p>Dopo la conferma dell&lsquo;ordine ti invieremo le informazioni di pagamento.<\/p>\r\n\r\n<p>Cordialmente<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "30",
-    "ptext_lang": "6",
-    "ptext_mid": "5",
-    "ptext_subject": "Ordine confermato",
-    "ptext_mail": "<p>Buongiorno {name} {surname},<\/p>\r\n\r\n<p>con la presente accettiamo il tuo ordine n. {ordernum} in conformit\u00e0 con Termini e Condizioni. Il prezzo totale dell&#39;ordine: {sum} &euro;<\/p>\r\n\r\n<p>Si prega di effettuare il pagamento al seguente contocorrente bancario:<br \/>\r\nBeneficiario:&nbsp;Spolok mlad\u00fdch vedcov<br \/>\r\nBank account (IBAN):&nbsp;SK13 5600 0000 0041 0481 2001<br \/>\r\nSWIFT:&nbsp;KOMASK2X<br \/>\r\nBank:&nbsp;Primabanka Slovakia<br \/>\r\nIndirizzo:&nbsp;Hod\u017eova 11, 010 11, \u017dilina<\/p>\r\n\r\n<p>Faremo tutto il possibile per garantire che il tuo ordine sia spedito entro 48 ore dalla ricezione del pagamento. Sarai informato via e-mail e SMS sulla spedizione del tuo ordine. In caso di spedizione tramite corriere ti verr\u00e0 inviato un link con il numero della tua spedizione per la sua verifica gi\u00e0 nel giorno della spedizione.<\/p>\r\n\r\n<p>Cordialmente<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "31",
-    "ptext_lang": "6",
-    "ptext_mid": "6",
-    "ptext_subject": "Pagamento ricevuto",
-    "ptext_mail": "<p>Buongiorno {name} {surname},<\/p>\r\n\r\n<p>con la presente ti informiamo che abbiamo ricevuto il pagamento per l&#39;ordine n. {ordernum} Faremo tutto il possibile per garantire che il tuo ordine sia spedito entro 48 ore. Sarai informato via e-mail e SMS sulla spedizione del tuo ordine. In caso di spedizione tramite corriere ti verr\u00e0 inviato un link con il numero della tua spedizione per la sua verifica gi\u00e0 nel giorno della spedizione<\/p>\r\n\r\n<p>Cordialmente<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "32",
-    "ptext_lang": "6",
-    "ptext_mid": "7",
-    "ptext_subject": "Ordine inviato",
-    "ptext_mail": "<p>Buongiorno {name} {surname},<\/p>\r\n\r\n<p>con la presente ti informiamo che il tuo ordine n. {ordernum} \u00e8 stato inviato. Il link per la verifica: {link}<\/p>\r\n\r\n<p>Cordialmente<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "33",
-    "ptext_lang": "6",
-    "ptext_mid": "8",
-    "ptext_subject": "Autoreply",
-    "ptext_mail": "<p>Buongiorno, grazie per averci contattato. Cerchiamo di rispondere ai nostri clienti nel giro di poche ore.<\/p>\r\n\r\n<p>Best regards<br \/>\r\nMalaytiger-shop.com<br \/>\r\nE-mail: info@malaytiger-shop.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "34",
-    "ptext_lang": "5",
-    "ptext_mid": "1",
-    "ptext_subject": "Enregistrement",
-    "ptext_mail": "<p>Bonjour {name} {surname}, vous avez bien r\u00e9ussi de vous enregistrer. Bienvenu sur notre site Votre e-mail: {email} Votre mot de passe: {pwd} Si vous ne parvenez pas \u00e0 activer votre compte par SMS, activez-le en cliquant sur ce lien: {link} Cordialement<\/p>\r\n"
-  },
-  {
-    "ptext_id": "35",
-    "ptext_lang": "5",
-    "ptext_mid": "2",
-    "ptext_subject": "Mot de passe oubli\u00e9",
-    "ptext_mail": "<p>Bonjour {name} {surname}, suivant votre demande, nous vous envoyons le lien qui vous g\u00e9n\u00e9rera un nouveau mot de passe. Si vous n&rsquo;avez pas demand\u00e9 le changement, ignorez cet e-mail, s&rsquo;il vous plait. Le lien: {link} Cordialement<\/p>\r\n"
-  },
-  {
-    "ptext_id": "36",
-    "ptext_lang": "5",
-    "ptext_mid": "3",
-    "ptext_subject": "Nouveau mot de passe",
-    "ptext_mail": "<p>Bonjour {name} {surname}, suivant votre demande, nous vous envoyons un nouveau mot de passe pour le site.... Votre e-mail: {email} Votre nouveau mot de passe: {pwd} Vous pouvez changer votre mot de passe dans la section Profil. Cordialement<\/p>\r\n"
-  },
-  {
-    "ptext_id": "37",
-    "ptext_lang": "5",
-    "ptext_mid": "4",
-    "ptext_subject": "Nouvelle commande",
-    "ptext_mail": "<p>Bonjour {name} {surname}, s&rsquo;il vous plait, confirmez la commande n. {ordernum}.Vous pouvez confirmer la commande sur le lien suivant: {link} Apr\u00e8s la confirmation de la commande, nous vous enverrons les d\u00e9tails de payement. Cordialement<\/p>\r\n"
-  },
-  {
-    "ptext_id": "38",
-    "ptext_lang": "5",
-    "ptext_mid": "5",
-    "ptext_subject": "Commande confirm\u00e9e",
-    "ptext_mail": "<p>Bonjour {name} {surname}, nous acceptons votre commande n. {ordernum} en conformit\u00e9 avec des conditions commerciales. Le prix total de la commande: {sum} &euro; Payement sur le compte bancaire: Destinataire: Bank account (IBAN): SWIFT: Banque: Adresse : Nous ferons tout pour que votre commande soit exp\u00e9di\u00e9e dans les 48 heures apr\u00e8s r\u00e9ception du payement. Vous serez inform\u00e9 par e-mail ou SMS sur l&rsquo;exp\u00e9dition de votre commande. Lors de l&rsquo;exp\u00e9dition par courrier, vous recevrez le lien avec le num\u00e9ro de suivi de votre colis le jour de l&rsquo;exp\u00e9dition. Cordialement<\/p>\r\n"
-  },
-  {
-    "ptext_id": "39",
-    "ptext_lang": "5",
-    "ptext_mid": "6",
-    "ptext_subject": "R\u00e9ception du payement",
-    "ptext_mail": "<p>Bonjour {name} {surname}, Nous vous annon\u00e7ons que nous avons bien re\u00e7u le payement pour la commande n. {ordernum}. Nous ferons tout pour que votre commande soit exp\u00e9di\u00e9e dans les 48 heures apr\u00e8s r\u00e9ception du payement. Vous serez inform\u00e9 par e-mail ou SMS sur l&rsquo;exp\u00e9dition de votre commande. Lors de l&rsquo;exp\u00e9dition par courrier, vous recevrez le lien avec le num\u00e9ro de suivi de votre colis le jour de l&rsquo;exp\u00e9dition. Cordialement<\/p>\r\n"
-  },
-  {
-    "ptext_id": "40",
-    "ptext_lang": "5",
-    "ptext_mid": "7",
-    "ptext_subject": "Commande envoy\u00e9e",
-    "ptext_mail": "<p>Bonjour {name} {surname}, nous vous annon\u00e7ons que votre commande n. {ordernum} a \u00e9t\u00e9 envoy\u00e9e. Le lien de suivi: {link} Cordialement<\/p>\r\n"
-  },
-  {
     "ptext_id": "42",
     "ptext_lang": "1",
     "ptext_mid": "10",
@@ -294,648 +77,11 @@
     "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Pri\u0161la Ti nov\u00e1 spr\u00e1va. N\u00e1jde\u0161 ju v sekcii spr\u00e1vy v u\u017e\u00edvate\u013eskom menu.<br \/>\r\n&nbsp;<\/p>\r\n"
   },
   {
-    "ptext_id": "45",
-    "ptext_lang": "7",
-    "ptext_mid": "1",
-    "ptext_subject": "Registr\u00e1cia - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Tvoja registr\u00e1cia bola \u00faspe\u0161n\u00e1!&nbsp;Vitaj&nbsp;na webe example.com<br \/>\r\nEmail: {email}<br \/>\r\nHeslo: {pwd}<\/p>\r\n\r\n<p>Ak sa Ti&nbsp;nepodarilo aktivova\u0165 \u00fa\u010det prostredn\u00edctvom SMS k\u00f3du m\u00f4\u017ee\u0161&nbsp;ho aktivova\u0165 na tomto odkaze:&nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\nexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "46",
-    "ptext_lang": "7",
-    "ptext_mid": "2",
-    "ptext_subject": "Zabudnut\u00e9 heslo - example.com",
-    "ptext_mail": "<p>Ahoj&nbsp;{name},<\/p>\r\n\r\n<p>Zabudol si heslo? Zasielam Ti&nbsp;odkaz na obnovenie nov\u00e9ho hesla. Ak si&nbsp;o t\u00fato zmenu ne\u017eiadal&nbsp;pros\u00edm ignoruj&nbsp;tento mail.<br \/>\r\nLink: <a href=\"{link}\">{link}<\/a><br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "47",
-    "ptext_lang": "7",
-    "ptext_mid": "3",
-    "ptext_subject": "Nov\u00e9 heslo - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>zasielame Ti na \u017eiados\u0165 Tvoje&nbsp;prihlasovacie \u00fadaje.<\/p>\r\n\r\n<p>E-mail: {email}<br \/>\r\nHeslo: {pwd}<\/p>\r\n\r\n<p>Heslo si m\u00f4\u017ee\u0161 kedyko\u013evek zmeni\u0165 v sekcii Profil.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "48",
-    "ptext_lang": "7",
-    "ptext_mid": "4",
-    "ptext_subject": "Nov\u00e1 objedn\u00e1vka - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>pros\u00edm \u0164a&nbsp;o potvrdenie objedn\u00e1vky&nbsp;{ordernum}. &nbsp;<a href=\"{link}\">{link}<\/a>&nbsp;<\/p>\r\n\r\n<p>\u010eakujem.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "49",
-    "ptext_lang": "7",
-    "ptext_mid": "5",
-    "ptext_subject": "Objedn\u00e1vka potvrden\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>t\u00fdmto potvrdzujem&nbsp;Tvoju&nbsp;objedn\u00e1vku \u010d.: {ordernum} v s\u00favislosti s na\u0161imi obchodn\u00fdmi podmienkami.&nbsp;Celkov\u00e1 cena: {sum} &euro;<\/p>\r\n\r\n<p>N\u00e1\u0161 t\u00edm urob\u00ed v\u0161etko pre to aby bola Tvoja&nbsp;objedn\u00e1vka odoslan\u00e1&nbsp;do 48hod\u00edn. O odoslan\u00ed objedn\u00e1vky dostane\u0161 info&nbsp;e-mailom a SMS. &nbsp;<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "50",
-    "ptext_lang": "7",
-    "ptext_mid": "6",
-    "ptext_subject": "Platba prijat\u00e1 - example.com",
-    "ptext_mail": "<p>Dobr\u00fd de\u0148&nbsp;{name} {surname},<\/p>\r\n\r\n<p>Sme radi, \u017ee V\u00e1m m\u00f4\u017eeme ozn\u00e1mi\u0165, \u017ee sme prijali platbu k objedn\u00e1vke \u010d.: {ordernum}.<\/p>\r\n\r\n<p>Urob\u00edme v\u0161etko pre to aby bola Va\u0161a objedn\u00e1vka odoslan\u00e1 do 48hod\u00edn.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "51",
-    "ptext_lang": "7",
-    "ptext_mid": "7",
-    "ptext_subject": "Objedn\u00e1vka odoslan\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Tvoja objedn\u00e1vka \u010d.: {ordernum} bola odoslan\u00e1!&nbsp;Na tomto odkaze si m\u00f4\u017ee\u0161 sledova\u0165 kde sa moment\u00e1lne nach\u00e1dza Tvoj bal\u00ed\u010dek:&nbsp;{link}<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "52",
-    "ptext_lang": "7",
-    "ptext_mid": "8",
-    "ptext_subject": "Autoreply - example.com",
-    "ptext_mail": "<p>Ahoj,<\/p>\r\n\r\n<p>\u010fakujeme za Tvoj\u00a0e-mail. Odpovieme Ti hne\u010f ako to len bude mo\u017en\u00e9! Pam\u00e4taj ale \u017ee cez v\u00edkend oddychujeme.\u00a0\u00a0<\/p>\r\n"
-  },
-  {
-    "ptext_id": "54",
-    "ptext_lang": "7",
-    "ptext_mid": "10",
-    "ptext_subject": "Fakt\u00fara - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>v pr\u00edlohe Ti zasielam elektronick\u00fa fakt\u00faru k produktom, ktor\u00e9 si si zak\u00fapil v na\u0161om obchode. Ako si asi postrehol, s tovarom si obdr\u017eal len dodac\u00ed list. Je to na\u0161a be\u017en\u00e1 rutina.<\/p>\r\n\r\n<p>D\u00fafam, \u017ee si s na\u0161im tovarom spokojn\u00fd.<\/p>\r\n\r\n<p>Ak by si potreboval \u010fal\u0161ie , vie\u0161 kde n\u00e1s n\u00e1jde\u0161.<\/p>\r\n\r\n<p>Prajem pr\u00edjemn\u00fd zvy\u0161ok d\u0148a.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "55",
-    "ptext_lang": "7",
-    "ptext_mid": "11",
-    "ptext_subject": "Recenzia - example.com ",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>pred p\u00e1r t\u00fd\u017ed\u0148ami si si u n\u00e1s zak\u00fapil . Ve\u013emi by ma zauj\u00edmalo ak\u00e9 v\u00fdsledky si dosiahol. Ak by si bol ochotn\u00fd zasla\u0165 n\u00e1m nejak\u00fd pozit\u00edvny koment\u00e1r, pr\u00edpadne fotky pred a po, ktor\u00e9 by sme mohli s Tvojim s\u00fahlasom na na\u0161om webe zverejni\u0165, odmen\u00edme \u0164a bonusovou kartou k n\u00e1kupu \u010fal\u0161\u00edch <\/p>\r\n\r\n<p>\u010eakujem a prajem pr\u00edjemn\u00fd zvy\u0161ok d\u0148a.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "56",
-    "ptext_lang": "7",
-    "ptext_mid": "12",
-    "ptext_subject": "Nov\u00e1 spr\u00e1va - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Pri\u0161la Ti nov\u00e1 spr\u00e1va. N\u00e1jde\u0161 ju v sekcii spr\u00e1vy v u\u017e\u00edvate\u013eskom menu.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "57",
-    "ptext_lang": "7",
-    "ptext_mid": "1",
-    "ptext_subject": "Registr\u00e1cia - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Tvoja registr\u00e1cia bola \u00faspe\u0161n\u00e1!&nbsp;Vitaj&nbsp;na webe example.com<br \/>\r\nEmail: {email}<br \/>\r\nHeslo: {pwd}<\/p>\r\n\r\n<p>Ak sa Ti&nbsp;nepodarilo aktivova\u0165 \u00fa\u010det prostredn\u00edctvom SMS k\u00f3du m\u00f4\u017ee\u0161&nbsp;ho aktivova\u0165 na tomto odkaze:&nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\nexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "58",
-    "ptext_lang": "7",
-    "ptext_mid": "2",
-    "ptext_subject": "Zabudnut\u00e9 heslo - example.com",
-    "ptext_mail": "<p>Ahoj&nbsp;{name},<\/p>\r\n\r\n<p>Zabudol si heslo? Zasielam Ti&nbsp;odkaz na obnovenie nov\u00e9ho hesla. Ak si&nbsp;o t\u00fato zmenu ne\u017eiadal&nbsp;pros\u00edm ignoruj&nbsp;tento mail.<br \/>\r\nLink: <a href=\"{link}\">{link}<\/a><br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "59",
-    "ptext_lang": "7",
-    "ptext_mid": "3",
-    "ptext_subject": "Nov\u00e9 heslo - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>zasielame Ti na \u017eiados\u0165 Tvoje&nbsp;prihlasovacie \u00fadaje.<\/p>\r\n\r\n<p>E-mail: {email}<br \/>\r\nHeslo: {pwd}<\/p>\r\n\r\n<p>Heslo si m\u00f4\u017ee\u0161 kedyko\u013evek zmeni\u0165 v sekcii Profil.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "60",
-    "ptext_lang": "7",
-    "ptext_mid": "4",
-    "ptext_subject": "Nov\u00e1 objedn\u00e1vka - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>pros\u00edm \u0164a&nbsp;o potvrdenie objedn\u00e1vky&nbsp;{ordernum}. &nbsp;<a href=\"{link}\">{link}<\/a>&nbsp;<\/p>\r\n\r\n<p>\u010eakujem.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "61",
-    "ptext_lang": "7",
-    "ptext_mid": "5",
-    "ptext_subject": "Objedn\u00e1vka potvrden\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>t\u00fdmto potvrdzujem&nbsp;Tvoju&nbsp;objedn\u00e1vku \u010d.: {ordernum} v s\u00favislosti s na\u0161imi obchodn\u00fdmi podmienkami.&nbsp;Celkov\u00e1 cena: {sum} &euro;<\/p>\r\n\r\n<p>N\u00e1\u0161 t\u00edm urob\u00ed v\u0161etko pre to aby bola Tvoja&nbsp;objedn\u00e1vka odoslan\u00e1&nbsp;do 48hod\u00edn. O odoslan\u00ed objedn\u00e1vky dostane\u0161 info&nbsp;e-mailom a SMS. &nbsp;<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "62",
-    "ptext_lang": "7",
-    "ptext_mid": "6",
-    "ptext_subject": "Platba prijat\u00e1 - example.com",
-    "ptext_mail": "<p>Dobr\u00fd de\u0148&nbsp;{name} {surname},<\/p>\r\n\r\n<p>Sme radi, \u017ee V\u00e1m m\u00f4\u017eeme ozn\u00e1mi\u0165, \u017ee sme prijali platbu k objedn\u00e1vke \u010d.: {ordernum}.<\/p>\r\n\r\n<p>Urob\u00edme v\u0161etko pre to aby bola Va\u0161a objedn\u00e1vka odoslan\u00e1 do 48hod\u00edn.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "63",
-    "ptext_lang": "7",
-    "ptext_mid": "7",
-    "ptext_subject": "Objedn\u00e1vka odoslan\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Tvoja objedn\u00e1vka \u010d.: {ordernum} bola odoslan\u00e1!&nbsp;Na tomto odkaze si m\u00f4\u017ee\u0161 sledova\u0165 kde sa moment\u00e1lne nach\u00e1dza Tvoj bal\u00ed\u010dek:&nbsp;{link}<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "64",
-    "ptext_lang": "7",
-    "ptext_mid": "8",
-    "ptext_subject": "Autoreply - example.com",
-    "ptext_mail": "<p>Ahoj,<\/p>\r\n\r\n<p>\u010fakujeme za Tvoj\u00a0e-mail. Odpovieme Ti hne\u010f ako to len bude mo\u017en\u00e9! Pam\u00e4taj ale \u017ee cez v\u00edkend oddychujeme.\u00a0\u00a0<\/p>\r\n"
-  },
-  {
-    "ptext_id": "66",
-    "ptext_lang": "7",
-    "ptext_mid": "10",
-    "ptext_subject": "Fakt\u00fara - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>v pr\u00edlohe Ti zasielam elektronick\u00fa fakt\u00faru k produktom, ktor\u00e9 si si zak\u00fapil v na\u0161om obchode. Ako si asi postrehol, s tovarom si obdr\u017eal len dodac\u00ed list. Je to na\u0161a be\u017en\u00e1 rutina.<\/p>\r\n\r\n<p>D\u00fafam, \u017ee si s na\u0161im tovarom spokojn\u00fd.<\/p>\r\n\r\n<p>Ak by si potreboval \u010fal\u0161ie , vie\u0161 kde n\u00e1s n\u00e1jde\u0161.<\/p>\r\n\r\n<p>Prajem pr\u00edjemn\u00fd zvy\u0161ok d\u0148a.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "67",
-    "ptext_lang": "7",
-    "ptext_mid": "11",
-    "ptext_subject": "Recenzia - example.com ",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>pred p\u00e1r t\u00fd\u017ed\u0148ami si si u n\u00e1s zak\u00fapil . Ve\u013emi by ma zauj\u00edmalo ak\u00e9 v\u00fdsledky si dosiahol. Ak by si bol ochotn\u00fd zasla\u0165 n\u00e1m nejak\u00fd pozit\u00edvny koment\u00e1r, pr\u00edpadne fotky pred a po, ktor\u00e9 by sme mohli s Tvojim s\u00fahlasom na na\u0161om webe zverejni\u0165, odmen\u00edme \u0164a bonusovou kartou k n\u00e1kupu \u010fal\u0161\u00edch <\/p>\r\n\r\n<p>\u010eakujem a prajem pr\u00edjemn\u00fd zvy\u0161ok d\u0148a.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "68",
-    "ptext_lang": "7",
-    "ptext_mid": "12",
-    "ptext_subject": "Nov\u00e1 spr\u00e1va - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Pri\u0161la Ti nov\u00e1 spr\u00e1va. N\u00e1jde\u0161 ju v sekcii spr\u00e1vy v u\u017e\u00edvate\u013eskom menu.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "69",
-    "ptext_lang": "7",
-    "ptext_mid": "1",
-    "ptext_subject": "Registr\u00e1cia - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Tvoja registr\u00e1cia bola \u00faspe\u0161n\u00e1!&nbsp;Vitaj&nbsp;na webe example.com<br \/>\r\nEmail: {email}<br \/>\r\nHeslo: {pwd}<\/p>\r\n\r\n<p>Ak sa Ti&nbsp;nepodarilo aktivova\u0165 \u00fa\u010det prostredn\u00edctvom SMS k\u00f3du m\u00f4\u017ee\u0161&nbsp;ho aktivova\u0165 na tomto odkaze:&nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\nexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "70",
-    "ptext_lang": "7",
-    "ptext_mid": "2",
-    "ptext_subject": "Zabudnut\u00e9 heslo - example.com",
-    "ptext_mail": "<p>Ahoj&nbsp;{name},<\/p>\r\n\r\n<p>Zabudol si heslo? Zasielam Ti&nbsp;odkaz na obnovenie nov\u00e9ho hesla. Ak si&nbsp;o t\u00fato zmenu ne\u017eiadal&nbsp;pros\u00edm ignoruj&nbsp;tento mail.<br \/>\r\nLink: <a href=\"{link}\">{link}<\/a><br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "71",
-    "ptext_lang": "7",
-    "ptext_mid": "3",
-    "ptext_subject": "Nov\u00e9 heslo - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>zasielame Ti na \u017eiados\u0165 Tvoje&nbsp;prihlasovacie \u00fadaje.<\/p>\r\n\r\n<p>E-mail: {email}<br \/>\r\nHeslo: {pwd}<\/p>\r\n\r\n<p>Heslo si m\u00f4\u017ee\u0161 kedyko\u013evek zmeni\u0165 v sekcii Profil.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "72",
-    "ptext_lang": "7",
-    "ptext_mid": "4",
-    "ptext_subject": "Nov\u00e1 objedn\u00e1vka - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>pros\u00edm \u0164a&nbsp;o potvrdenie objedn\u00e1vky&nbsp;{ordernum}. &nbsp;<a href=\"{link}\">{link}<\/a>&nbsp;<\/p>\r\n\r\n<p>\u010eakujem.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "73",
-    "ptext_lang": "7",
-    "ptext_mid": "5",
-    "ptext_subject": "Objedn\u00e1vka potvrden\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>t\u00fdmto potvrdzujem&nbsp;Tvoju&nbsp;objedn\u00e1vku \u010d.: {ordernum} v s\u00favislosti s na\u0161imi obchodn\u00fdmi podmienkami.&nbsp;Celkov\u00e1 cena: {sum} &euro;<\/p>\r\n\r\n<p>N\u00e1\u0161 t\u00edm urob\u00ed v\u0161etko pre to aby bola Tvoja&nbsp;objedn\u00e1vka odoslan\u00e1&nbsp;do 48hod\u00edn. O odoslan\u00ed objedn\u00e1vky dostane\u0161 info&nbsp;e-mailom a SMS. &nbsp;<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "74",
-    "ptext_lang": "7",
-    "ptext_mid": "6",
-    "ptext_subject": "Platba prijat\u00e1 - example.com",
-    "ptext_mail": "<p>Dobr\u00fd de\u0148&nbsp;{name} {surname},<\/p>\r\n\r\n<p>Sme radi, \u017ee V\u00e1m m\u00f4\u017eeme ozn\u00e1mi\u0165, \u017ee sme prijali platbu k objedn\u00e1vke \u010d.: {ordernum}.<\/p>\r\n\r\n<p>Urob\u00edme v\u0161etko pre to aby bola Va\u0161a objedn\u00e1vka odoslan\u00e1 do 48hod\u00edn.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "75",
-    "ptext_lang": "7",
-    "ptext_mid": "7",
-    "ptext_subject": "Objedn\u00e1vka odoslan\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Tvoja objedn\u00e1vka \u010d.: {ordernum} bola odoslan\u00e1!&nbsp;Na tomto odkaze si m\u00f4\u017ee\u0161 sledova\u0165 kde sa moment\u00e1lne nach\u00e1dza Tvoj bal\u00ed\u010dek:&nbsp;{link}<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "76",
-    "ptext_lang": "7",
-    "ptext_mid": "8",
-    "ptext_subject": "Autoreply - example.com",
-    "ptext_mail": "<p>Ahoj,<\/p>\r\n\r\n<p>\u010fakujeme za Tvoj\u00a0e-mail. Odpovieme Ti hne\u010f ako to len bude mo\u017en\u00e9! Pam\u00e4taj ale \u017ee cez v\u00edkend oddychujeme.\u00a0\u00a0<\/p>\r\n"
-  },
-  {
-    "ptext_id": "78",
-    "ptext_lang": "7",
-    "ptext_mid": "10",
-    "ptext_subject": "Fakt\u00fara - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>v pr\u00edlohe Ti zasielam elektronick\u00fa fakt\u00faru k produktom, ktor\u00e9 si si zak\u00fapil v na\u0161om obchode. Ako si asi postrehol, s tovarom si obdr\u017eal len dodac\u00ed list. Je to na\u0161a be\u017en\u00e1 rutina.<\/p>\r\n\r\n<p>D\u00fafam, \u017ee si s na\u0161im tovarom spokojn\u00fd.<\/p>\r\n\r\n<p>Ak by si potreboval \u010fal\u0161ie , vie\u0161 kde n\u00e1s n\u00e1jde\u0161.<\/p>\r\n\r\n<p>Prajem pr\u00edjemn\u00fd zvy\u0161ok d\u0148a.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "79",
-    "ptext_lang": "7",
-    "ptext_mid": "11",
-    "ptext_subject": "Recenzia - example.com ",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>pred p\u00e1r t\u00fd\u017ed\u0148ami si si u n\u00e1s zak\u00fapil . Ve\u013emi by ma zauj\u00edmalo ak\u00e9 v\u00fdsledky si dosiahol. Ak by si bol ochotn\u00fd zasla\u0165 n\u00e1m nejak\u00fd pozit\u00edvny koment\u00e1r, pr\u00edpadne fotky pred a po, ktor\u00e9 by sme mohli s Tvojim s\u00fahlasom na na\u0161om webe zverejni\u0165, odmen\u00edme \u0164a bonusovou kartou k n\u00e1kupu \u010fal\u0161\u00edch <\/p>\r\n\r\n<p>\u010eakujem a prajem pr\u00edjemn\u00fd zvy\u0161ok d\u0148a.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "80",
-    "ptext_lang": "7",
-    "ptext_mid": "12",
-    "ptext_subject": "Nov\u00e1 spr\u00e1va - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Pri\u0161la Ti nov\u00e1 spr\u00e1va. N\u00e1jde\u0161 ju v sekcii spr\u00e1vy v u\u017e\u00edvate\u013eskom menu.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
     "ptext_id": "81",
     "ptext_lang": "1",
     "ptext_mid": "13",
     "ptext_subject": "Chybn\u00e1 platba",
     "ptext_mail": "<p>Chybn\u00e1 platba - overi\u0165, \u010d\u00edslo obj.: {vs}<\/p>\r\n"
-  },
-  {
-    "ptext_id": "82",
-    "ptext_lang": "7",
-    "ptext_mid": "13",
-    "ptext_subject": "Chybn\u00e1 platba",
-    "ptext_mail": "<p>Chybn\u00e1 platba - overi\u0165, \u010d\u00edslo obj.: {vs}<\/p>\r\n"
-  },
-  {
-    "ptext_id": "83",
-    "ptext_lang": "1",
-    "ptext_mid": "5",
-    "ptext_subject": "Objedn\u00e1vka potvrden\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>t\u00fdmto potvrdzujem&nbsp;Tvoju&nbsp;objedn\u00e1vku \u010d.: {ordernum} v s\u00favislosti s na\u0161imi obchodn\u00fdmi podmienkami.&nbsp;Celkov\u00e1 cena: {sum}.<\/p>\r\n\r\n<p>V pr\u00edpade ak si zvolil platbu banokov\u00fdm prevodom, tak na tomto odkaze n\u00e1jde\u0161 \u00fadaje pre zaplatenie:&nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>N\u00e1\u0161 t\u00edm urob\u00ed v\u0161etko pre to aby bola Tvoja&nbsp;objedn\u00e1vka odoslan\u00e1&nbsp;do 48hod\u00edn. O odoslan\u00ed objedn\u00e1vky dostane\u0161 info&nbsp;e-mailom a SMS. &nbsp;<\/p>\r\n\r\n<p>\u010eakujeme za tvoju objedn\u00e1vku<\/p>\r\n"
-  },
-  {
-    "ptext_id": "84",
-    "ptext_lang": "7",
-    "ptext_mid": "5",
-    "ptext_subject": "Objedn\u00e1vka potvrden\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>t\u00fdmto potvrdzujem&nbsp;Tvoju&nbsp;objedn\u00e1vku \u010d.: {ordernum} v s\u00favislosti s na\u0161imi obchodn\u00fdmi podmienkami.&nbsp;Celkov\u00e1 cena: {sum} &euro;<\/p>\r\n\r\n<p>N\u00e1\u0161 t\u00edm urob\u00ed v\u0161etko pre to aby bola Tvoja&nbsp;objedn\u00e1vka odoslan\u00e1&nbsp;do 48hod\u00edn. O odoslan\u00ed objedn\u00e1vky dostane\u0161 info&nbsp;e-mailom a SMS. &nbsp;<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "85",
-    "ptext_lang": "7",
-    "ptext_mid": "5",
-    "ptext_subject": "Objedn\u00e1vka potvrden\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>t\u00fdmto potvrdzujem&nbsp;Tvoju&nbsp;objedn\u00e1vku \u010d.: {ordernum} v s\u00favislosti s na\u0161imi obchodn\u00fdmi podmienkami.&nbsp;Celkov\u00e1 cena: {sum} &euro;<\/p>\r\n\r\n<p>N\u00e1\u0161 t\u00edm urob\u00ed v\u0161etko pre to aby bola Tvoja&nbsp;objedn\u00e1vka odoslan\u00e1&nbsp;do 48hod\u00edn. O odoslan\u00ed objedn\u00e1vky dostane\u0161 info&nbsp;e-mailom a SMS. &nbsp;<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "86",
-    "ptext_lang": "7",
-    "ptext_mid": "5",
-    "ptext_subject": "Objedn\u00e1vka potvrden\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>t\u00fdmto potvrdzujem&nbsp;Tvoju&nbsp;objedn\u00e1vku \u010d.: {ordernum} v s\u00favislosti s na\u0161imi obchodn\u00fdmi podmienkami.&nbsp;Celkov\u00e1 cena: {sum} &euro;<\/p>\r\n\r\n<p>N\u00e1\u0161 t\u00edm urob\u00ed v\u0161etko pre to aby bola Tvoja&nbsp;objedn\u00e1vka odoslan\u00e1&nbsp;do 48hod\u00edn. O odoslan\u00ed objedn\u00e1vky dostane\u0161 info&nbsp;e-mailom a SMS. &nbsp;<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "87",
-    "ptext_lang": "2",
-    "ptext_mid": "1",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "88",
-    "ptext_lang": "7",
-    "ptext_mid": "1",
-    "ptext_subject": "Registr\u00e1cia - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Tvoja registr\u00e1cia bola \u00faspe\u0161n\u00e1!&nbsp;Vitaj&nbsp;na webe example.com<br \/>\r\nEmail: {email}<br \/>\r\nHeslo: {pwd}<\/p>\r\n\r\n<p>Ak sa Ti&nbsp;nepodarilo aktivova\u0165 \u00fa\u010det prostredn\u00edctvom SMS k\u00f3du m\u00f4\u017ee\u0161&nbsp;ho aktivova\u0165 na tomto odkaze:&nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\nexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "89",
-    "ptext_lang": "8",
-    "ptext_mid": "1",
-    "ptext_subject": "Regisztr\u00e1ci\u00f3",
-    "ptext_mail": "<p>Szia {name}!<\/p>\r\n\r\n<p>A&nbsp;regisztr\u00e1ci\u00f3d sikeres volt! \u00dcdv\u00f6zl\u00fcnk a example.com oldal\u00e1n.<br \/>\r\nEmail: {email}<br \/>\r\nJelsz\u00f3: {pwd}<\/p>\r\n\r\n<p>Ha nem siker\u00fclt a&nbsp;fi\u00f3kod aktiv\u00e1l\u00e1sa az SMS-k\u00f3d seg\u00edts\u00e9g\u00e9vel, a&nbsp;k\u00f6vetkez\u0151 linken megteheted: &nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nMarko<\/p>\r\n\r\n<p>example.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "90",
-    "ptext_lang": "2",
-    "ptext_mid": "2",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "91",
-    "ptext_lang": "7",
-    "ptext_mid": "2",
-    "ptext_subject": "Zabudnut\u00e9 heslo - example.com",
-    "ptext_mail": "<p>Ahoj&nbsp;{name},<\/p>\r\n\r\n<p>Zabudol si heslo? Zasielam Ti&nbsp;odkaz na obnovenie nov\u00e9ho hesla. Ak si&nbsp;o t\u00fato zmenu ne\u017eiadal&nbsp;pros\u00edm ignoruj&nbsp;tento mail.<br \/>\r\nLink: <a href=\"{link}\">{link}<\/a><br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "92",
-    "ptext_lang": "8",
-    "ptext_mid": "2",
-    "ptext_subject": "Elfelejtett jelsz\u00f3",
-    "ptext_mail": "<p>Szia&nbsp;{name}!<\/p>\r\n\r\n<p>Elfelejtetted a jelszavad? K\u00fcld\u00f6m a&nbsp;linket az \u00faj jelsz\u00f3 helyre\u00e1ll\u00edt\u00e1s\u00e1hoz. Ha nem Te k\u00e9rv\u00e9nyezted ezt a&nbsp;v\u00e1ltoztat\u00e1st, k\u00e9rlek ne vedd figyelembe ezt az e-mailt.<br \/>\r\nLink: <a href=\"{link}\">{link}<\/a><br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nMarko<\/p>\r\n\r\n<p>example.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "93",
-    "ptext_lang": "2",
-    "ptext_mid": "3",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "94",
-    "ptext_lang": "7",
-    "ptext_mid": "3",
-    "ptext_subject": "Nov\u00e9 heslo - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>zasielame Ti na \u017eiados\u0165 Tvoje&nbsp;prihlasovacie \u00fadaje.<\/p>\r\n\r\n<p>E-mail: {email}<br \/>\r\nHeslo: {pwd}<\/p>\r\n\r\n<p>Heslo si m\u00f4\u017ee\u0161 kedyko\u013evek zmeni\u0165 v sekcii Profil.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "95",
-    "ptext_lang": "8",
-    "ptext_mid": "3",
-    "ptext_subject": "\u00daj jelsz\u00f3",
-    "ptext_mail": "<p>Szia {name}!<\/p>\r\n\r\n<p>K\u00e9r\u00e9sedre k\u00fcldj\u00fck a&nbsp;bejelentkez\u00e9si adataidat.<\/p>\r\n\r\n<p>E-mail: {email}<br \/>\r\nJelsz\u00f3: {pwd}<\/p>\r\n\r\n<p>A&nbsp;jelsz\u00f3t b\u00e1rmikor megv\u00e1ltoztathatod a&nbsp;Profil szekci\u00f3ban.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u0151zlettel<br \/>\r\nMarko<\/p>\r\n\r\n<p>example.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "96",
-    "ptext_lang": "2",
-    "ptext_mid": "4",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "97",
-    "ptext_lang": "7",
-    "ptext_mid": "4",
-    "ptext_subject": "Nov\u00e1 objedn\u00e1vka - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>pros\u00edm \u0164a&nbsp;o potvrdenie objedn\u00e1vky&nbsp;{ordernum}. &nbsp;<a href=\"{link}\">{link}<\/a>&nbsp;<\/p>\r\n\r\n<p>\u010eakujem.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "98",
-    "ptext_lang": "8",
-    "ptext_mid": "4",
-    "ptext_subject": "\u00daj megrendel\u00e9s",
-    "ptext_mail": "<p>Szia {name}!<\/p>\r\n\r\n<p>K\u00e9rlek, igazold a&nbsp;{ordernum} sz. megrendel\u00e9st. &nbsp;<a href=\"%7blink%7d\">{link}<\/a>&nbsp;<\/p>\r\n\r\n<p>K\u00f6sz\u00f6n\u00f6m.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nMarko<\/p>\r\n\r\n<p>example.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "99",
-    "ptext_lang": "1",
-    "ptext_mid": "5",
-    "ptext_subject": "Objedn\u00e1vka potvrden\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>t\u00fdmto potvrdzujem&nbsp;Tvoju&nbsp;objedn\u00e1vku \u010d.: {ordernum} v s\u00favislosti s na\u0161imi obchodn\u00fdmi podmienkami.&nbsp;Celkov\u00e1 cena: {sum}.<\/p>\r\n\r\n<p>V pr\u00edpade ak si zvolil platbu banokov\u00fdm prevodom, tak na tomto odkaze n\u00e1jde\u0161 \u00fadaje pre zaplatenie:&nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>N\u00e1\u0161 t\u00edm urob\u00ed v\u0161etko pre to aby bola Tvoja&nbsp;objedn\u00e1vka odoslan\u00e1&nbsp;do 48hod\u00edn. O odoslan\u00ed objedn\u00e1vky dostane\u0161 info&nbsp;e-mailom a SMS. &nbsp;<\/p>\r\n\r\n<p>\u010eakujeme za tvoju objedn\u00e1vku<\/p>\r\n"
-  },
-  {
-    "ptext_id": "100",
-    "ptext_lang": "2",
-    "ptext_mid": "5",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "101",
-    "ptext_lang": "7",
-    "ptext_mid": "5",
-    "ptext_subject": "Objedn\u00e1vka potvrden\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>t\u00fdmto potvrdzujem&nbsp;Tvoju&nbsp;objedn\u00e1vku \u010d.: {ordernum} v s\u00favislosti s na\u0161imi obchodn\u00fdmi podmienkami.&nbsp;Celkov\u00e1 cena: {sum} &euro;<\/p>\r\n\r\n<p>N\u00e1\u0161 t\u00edm urob\u00ed v\u0161etko pre to aby bola Tvoja&nbsp;objedn\u00e1vka odoslan\u00e1&nbsp;do 48hod\u00edn. O odoslan\u00ed objedn\u00e1vky dostane\u0161 info&nbsp;e-mailom a SMS. &nbsp;<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "102",
-    "ptext_lang": "8",
-    "ptext_mid": "5",
-    "ptext_subject": "A megrend\u00e9s igazolva",
-    "ptext_mail": "<p>Szia {name}!<\/p>\r\n\r\n<p>Ez\u00faton igazolom a {ordernum} sz. megrendel\u00e9sedet, az \u00fczleti felt\u00e9teleinkkel \u00f6sszhangban. Teljes \u00e1r: {sum}.<\/p>\r\n\r\n<p>Ezen a&nbsp;linken tal\u00e1lod a&nbsp;fizet\u00e9shez sz\u00fcks\u00e9ges adatokat:&nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>Csapatunk mindent megtesz az\u00e9rt, hogy megrendel\u00e9sedet 48 \u00f3r\u00e1n bel\u00fcl elk\u00fcldj\u00fck. A&nbsp;megrendel\u00e9s elk\u00fcld\u00e9s\u00e9r\u0151l \u00e9rtes\u00edt\u00e9st kapsz majd e-mailben \u00e9s SMS-ben.<\/p>\r\n\r\n<p>K\u00f6sz\u00f6nj\u00fck megrendel\u00e9sedet<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nMarko<\/p>\r\n\r\n<p>example.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "103",
-    "ptext_lang": "2",
-    "ptext_mid": "7",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "104",
-    "ptext_lang": "7",
-    "ptext_mid": "7",
-    "ptext_subject": "Objedn\u00e1vka odoslan\u00e1 - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Tvoja objedn\u00e1vka \u010d.: {ordernum} bola odoslan\u00e1!&nbsp;Na tomto odkaze si m\u00f4\u017ee\u0161 sledova\u0165 kde sa moment\u00e1lne nach\u00e1dza Tvoj bal\u00ed\u010dek:&nbsp;{link}<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "105",
-    "ptext_lang": "8",
-    "ptext_mid": "7",
-    "ptext_subject": "A megrendel\u00e9s elk\u00fcldve",
-    "ptext_mail": "<p>Szia {name}!<\/p>\r\n\r\n<p>A {ordernum}sz. megrendel\u00e9sedet elk\u00fcldt\u00fck! Ezen a&nbsp;linken k\u00f6vetheted, hogy pillanatnyilag hol tal\u00e1lhat\u00f3 a&nbsp;csomagod:&nbsp;{link}<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nMarko<\/p>\r\n\r\n<p>example.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "106",
-    "ptext_lang": "2",
-    "ptext_mid": "8",
-    "ptext_subject": "ds",
-    "ptext_mail": "fds"
-  },
-  {
-    "ptext_id": "107",
-    "ptext_lang": "5",
-    "ptext_mid": "8",
-    "ptext_subject": "fds",
-    "ptext_mail": "fds"
-  },
-  {
-    "ptext_id": "108",
-    "ptext_lang": "7",
-    "ptext_mid": "8",
-    "ptext_subject": "Autoreply - example.com",
-    "ptext_mail": "<p>Ahoj,<\/p>\r\n\r\n<p>\u010fakujeme za Tvoj&nbsp;e-mail. Odpovieme Ti hne\u010f ako to len bude mo\u017en\u00e9! Pam\u00e4taj ale \u017ee cez v\u00edkend oddychujeme.&nbsp;&nbsp;<\/p>\r\n"
-  },
-  {
-    "ptext_id": "109",
-    "ptext_lang": "8",
-    "ptext_mid": "8",
-    "ptext_subject": "Autoreply",
-    "ptext_mail": "<p>Szia!<\/p>\r\n\r\n<p>K\u00f6sz\u00f6nj\u00fck e-mailedet. Azonnal v\u00e1laszolunk, amint lehets\u00e9ges! De ne feledd, hogy h\u00e9tv\u00e9g\u00e9n pihen\u00fcnk.<\/p>\r\n"
-  },
-  {
-    "ptext_id": "110",
-    "ptext_lang": "2",
-    "ptext_mid": "10",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "111",
-    "ptext_lang": "3",
-    "ptext_mid": "10",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "112",
-    "ptext_lang": "4",
-    "ptext_mid": "10",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "113",
-    "ptext_lang": "5",
-    "ptext_mid": "10",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "114",
-    "ptext_lang": "6",
-    "ptext_mid": "10",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "115",
-    "ptext_lang": "7",
-    "ptext_mid": "10",
-    "ptext_subject": "Fakt\u00fara - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>v pr\u00edlohe Ti zasielam elektronick\u00fa fakt\u00faru k produktom, ktor\u00e9 si si zak\u00fapil v na\u0161om obchode. Ako si asi postrehol, s tovarom si obdr\u017eal len dodac\u00ed list. Je to na\u0161a be\u017en\u00e1 rutina.<\/p>\r\n\r\n<p>D\u00fafam, \u017ee si s na\u0161im tovarom spokojn\u00fd.<\/p>\r\n\r\n<p>Ak by si potreboval \u010fal\u0161ie , vie\u0161 kde n\u00e1s n\u00e1jde\u0161.<\/p>\r\n\r\n<p>Prajem pr\u00edjemn\u00fd zvy\u0161ok d\u0148a.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "116",
-    "ptext_lang": "8",
-    "ptext_mid": "10",
-    "ptext_subject": "Sz\u00e1mla",
-    "ptext_mail": "<p>Szia {name}!<\/p>\r\n\r\n<p>Csatol\u00e1sban k\u00fcld\u00f6m az elektronikus sz\u00e1ml\u00e1t a&nbsp;term\u00e9kekhez, amelyeket megv\u00e1s\u00e1rolt\u00e1l \u00fczlet\u00fcnkben. Ahogy tal\u00e1n m\u00e1r \u00e9szrevetted, az \u00e1ruval csak sz\u00e1ll\u00edt\u00f3levelet kapt\u00e1l. Ez a&nbsp;mi \u00e1ltal\u00e1nos rutinunk.&nbsp;<\/p>\r\n\r\n<p>Rem\u00e9lem, hogy term\u00e9keinkkel el\u00e9gedett vagy.<\/p>\r\n\r\n<p>Ha tov\u00e1bbi example.com lenne sz\u00fcks\u00e9ged, tudod, hol tal\u00e1lsz minket.<\/p>\r\n\r\n<p>Tov\u00e1bbi kellemes napot k\u00edv\u00e1nok.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nMarko<\/p>\r\n\r\n<p>example.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "117",
-    "ptext_lang": "2",
-    "ptext_mid": "11",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "118",
-    "ptext_lang": "3",
-    "ptext_mid": "11",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "119",
-    "ptext_lang": "4",
-    "ptext_mid": "11",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "120",
-    "ptext_lang": "5",
-    "ptext_mid": "11",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "121",
-    "ptext_lang": "6",
-    "ptext_mid": "11",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "122",
-    "ptext_lang": "7",
-    "ptext_mid": "11",
-    "ptext_subject": "Recenzia - example.com ",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>pred p\u00e1r t\u00fd\u017ed\u0148ami si si u n\u00e1s zak\u00fapil. Ve\u013emi by ma zauj\u00edmalo ak\u00e9 v\u00fdsledky si dosiahol. Ak by si bol ochotn\u00fd zasla\u0165 n\u00e1m nejak\u00fd pozit\u00edvny koment\u00e1r, pr\u00edpadne fotky pred a po, ktor\u00e9 by sme mohli s Tvojim s\u00fahlasom na na\u0161om webe zverejni\u0165, odmen\u00edme \u0164a bonusovou kartou k n\u00e1kupu \u010fal\u0161\u00edch <\/p>\r\n\r\n<p>\u010eakujem a prajem pr\u00edjemn\u00fd zvy\u0161ok d\u0148a.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "123",
-    "ptext_lang": "8",
-    "ptext_mid": "11",
-    "ptext_subject": "Recenzi\u00f3",
-    "ptext_mail": "<p>Szia {name}!<\/p>\r\n\r\n<p>N\u00e9h\u00e1ny hete example.com v\u00e1s\u00e1rolt\u00e1l n\u00e1lunk. Nagyon \u00e9rdekelne, hogy milyen eredm\u00e9nyeket \u00e9rt\u00e9l el. Ha hajland\u00f3 vagy r\u00e1, \u00edrj nek\u00fcnk hozz\u00e1sz\u00f3l\u00e1st azokhoz a&nbsp;term\u00e9kekhez, amelyeket haszn\u00e1lt\u00e1l, esetleg k\u00fcldj fot\u00f3kat &bdquo;el\u0151tte&ldquo; \u00e9s &bdquo;ut\u00e1na&ldquo;, amelyeket nyilv\u00e1noss\u00e1gra hozhatn\u00e1nk az oldalunkon a&nbsp;Te beleegyez\u00e9seddel. A&nbsp;term\u00e9kkel kapcsolatos tapasztalataid seg\u00edthetnek m\u00e1s v\u00e1s\u00e1rl\u00f3knak a&nbsp;v\u00e1laszt\u00e1sban. El\u0151re is k\u00f6sz\u00f6nj\u00fck \u00e9s \u00f6r\u00fcl\u00fcnk a&nbsp;tov\u00e1bbi egy\u00fcttm\u0171k\u00f6d\u00e9snek.<\/p>\r\n\r\n<p>A&nbsp;term\u00e9keket k\u00f6zvetlen\u00fcl ezen a&nbsp;linken \u00e9rt\u00e9kelheted: {link}<\/p>\r\n\r\n<p>K\u00f6sz\u00f6n\u00f6m \u00e9s tov\u00e1bbi kellemes napot k\u00edv\u00e1nok.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<\/p>\r\n\r\n<p>Marko<br \/>\r\nexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "124",
-    "ptext_lang": "2",
-    "ptext_mid": "12",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "125",
-    "ptext_lang": "3",
-    "ptext_mid": "12",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "126",
-    "ptext_lang": "4",
-    "ptext_mid": "12",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "127",
-    "ptext_lang": "5",
-    "ptext_mid": "12",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "128",
-    "ptext_lang": "6",
-    "ptext_mid": "12",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "129",
-    "ptext_lang": "7",
-    "ptext_mid": "12",
-    "ptext_subject": "Nov\u00e1 spr\u00e1va - example.com",
-    "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Pri\u0161la Ti nov\u00e1 spr\u00e1va. N\u00e1jde\u0161 ju v sekcii spr\u00e1vy v u\u017e\u00edvate\u013eskom menu.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "130",
-    "ptext_lang": "8",
-    "ptext_mid": "12",
-    "ptext_subject": "\u00daj  \u00fczenet",
-    "ptext_mail": "<p>Szia {name}!<\/p>\r\n\r\n<p>\u00daj \u00fczenetet kapt\u00e1l. A&nbsp;felhaszn\u00e1l\u00f3i men\u00fcben tal\u00e1lhatod meg, az \u00dczenetek szekci\u00f3ban.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nMarko<\/p>\r\n\r\n<p>example.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "131",
-    "ptext_lang": "2",
-    "ptext_mid": "13",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "132",
-    "ptext_lang": "3",
-    "ptext_mid": "13",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "133",
-    "ptext_lang": "4",
-    "ptext_mid": "13",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "134",
-    "ptext_lang": "5",
-    "ptext_mid": "13",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "135",
-    "ptext_lang": "6",
-    "ptext_mid": "13",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "136",
-    "ptext_lang": "8",
-    "ptext_mid": "13",
-    "ptext_subject": "Fizet\u00e9si hiba",
-    "ptext_mail": "<p>Hiba a fizet\u00e9s sor\u00e1n - ellen\u0151rizni, a megrendel\u00e9s sz\u00e1ma: {vs}<\/p>\r\n"
-  },
-  {
-    "ptext_id": "137",
-    "ptext_lang": "2",
-    "ptext_mid": "6",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "138",
-    "ptext_lang": "7",
-    "ptext_mid": "6",
-    "ptext_subject": "Platba prijat\u00e1 - example.com",
-    "ptext_mail": "<p>Dobr\u00fd de\u0148&nbsp;{name} {surname},<\/p>\r\n\r\n<p>Sme radi, \u017ee V\u00e1m m\u00f4\u017eeme ozn\u00e1mi\u0165, \u017ee sme prijali platbu k objedn\u00e1vke \u010d.: {ordernum}.<\/p>\r\n\r\n<p>Urob\u00edme v\u0161etko pre to aby bola Va\u0161a objedn\u00e1vka odoslan\u00e1 do 48hod\u00edn.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\nS pozdravom<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
-  },
-  {
-    "ptext_id": "139",
-    "ptext_lang": "8",
-    "ptext_mid": "6",
-    "ptext_subject": "Fizet\u00e9si kapott",
-    "ptext_mail": "<p>J\u00f3 napot {name} {surname}!<\/p>\r\n\r\n<p>\u00d6r\u00f6mmel \u00e9rtes\u00edtj\u00fck, hogy megkaptuk a {ordernum}sz. megrendel\u00e9s kifizet\u00e9s\u00e9t.<\/p>\r\n\r\n<p>Mindent megtesz\u00fcnk az\u00e9rt, hogy a megrendel\u00e9se 48 \u00f3r\u00e1n bel\u00fcl elk\u00fcld\u00e9sre ker\u00fclj\u00f6n.<br \/>\r\n<br \/>\r\n---<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nMarco<br \/>\r\n\u200bexample.com<\/p>\r\n"
   },
   {
     "ptext_id": "140",
@@ -944,74 +90,122 @@
     "ptext_subject": "{subject}",
     "ptext_mail": "{msg}"
   },
-  {
-    "ptext_id": "141",
-    "ptext_lang": "2",
-    "ptext_mid": "14",
-    "ptext_subject": "{subject}",
-    "ptext_mail": "{msg}"
-  },
-  {
-    "ptext_id": "142",
-    "ptext_lang": "3",
-    "ptext_mid": "14",
-    "ptext_subject": "{subject}",
-    "ptext_mail": "{msg}"
-  },
-  {
-    "ptext_id": "143",
-    "ptext_lang": "4",
-    "ptext_mid": "14",
-    "ptext_subject": "{subject}",
-    "ptext_mail": "{msg}"
-  },
-  {
-    "ptext_id": "144",
-    "ptext_lang": "5",
-    "ptext_mid": "14",
-    "ptext_subject": "{subject}",
-    "ptext_mail": "{msg}"
-  },
-  {
-    "ptext_id": "145",
-    "ptext_lang": "6",
-    "ptext_mid": "14",
-    "ptext_subject": "{subject}",
-    "ptext_mail": "{msg}"
-  },
-  {
-    "ptext_id": "146",
-    "ptext_lang": "7",
-    "ptext_mid": "14",
-    "ptext_subject": "{subject}",
-    "ptext_mail": "{msg}"
-  },
-  {
-    "ptext_id": "147",
-    "ptext_lang": "8",
-    "ptext_mid": "14",
-    "ptext_subject": "{subject}",
-    "ptext_mail": "{msg}"
-  },
-  {
-    "ptext_id": "148",
-    "ptext_lang": "9",
-    "ptext_mid": "5",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "149",
-    "ptext_lang": "10",
-    "ptext_mid": "5",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  },
-  {
-    "ptext_id": "150",
-    "ptext_lang": "11",
-    "ptext_mid": "5",
-    "ptext_subject": "",
-    "ptext_mail": ""
-  }
+  {"ptext_id":"8","ptext_lang":"2","ptext_mid":"1","ptext_subject":"Registration","ptext_mail":"<p>Hello {name},<\/p>\r\n\r\n<p>Your registration was successful. Welcome to the webside Prohormones.eu<br \/>\r\nEmail: {email}<br \/>\r\nPassword: {pwd}<\/p>\r\n\r\n<p>If you could not activate the account via SMS code, you can activate it using this link: &nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n"},
+  {"ptext_id":"9","ptext_lang":"2","ptext_mid":"2","ptext_subject":"Forgot your password","ptext_mail":"<p>Hello {name} {surname},<\/p>\r\n\r\n<p>Forgot your password? I am sending you a link to recover your password. If you have not asked for this change, please ignore this e-mail.<\/p>\r\n\r\n<p>Link: <a href=\"{link}\">{link}<\/a><\/p>\r\n"},
+  {"ptext_id":"10","ptext_lang":"2","ptext_mid":"3","ptext_subject":"New password","ptext_mail":"<p>Hello {name} {surname},<\/p>\r\n\r\n<p>Based on your request, we are sending you your login details.<\/p>\r\n\r\n<p>E-mail: {email}<\/p>\r\n\r\n<p>Password: {pwd}<\/p>\r\n\r\n<p>You can change your password any time in the Profile section.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n"},
+  {"ptext_id":"11","ptext_lang":"2","ptext_mid":"4","ptext_subject":"New order","ptext_mail":"<p>Good morning {name} {surname},<\/p>\r\n\r\n<p>please confirm the order {ordernum}. You can confirm the order by clicking on the following link: {link}<\/p>\r\n\r\n<p>After confirming your order we will send you the payment information<\/p>\r\n"},
+  {"ptext_id":"12","ptext_lang":"2","ptext_mid":"5","ptext_subject":"Order confirmation","ptext_mail":"<p>Hello {name},<\/p>\r\n\r\n<p>I confirm your order No.: {ordernum} with respect to our terms and conditions. Total price: {sum}.<\/p>\r\n\r\n<p>You can find payment details here: <a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>Our team will do the best to ship your order within 48 hours. You will be informed about the shipment via e-mail and SMS.<\/p>\r\n"},
+  {"ptext_id":"13","ptext_lang":"2","ptext_mid":"6","ptext_subject":"Payment received","ptext_mail":"<p>Hello&nbsp;{name}<\/p>\r\n\r\n<p>We are pleased to announce you that we have received your payment for the order No.: {ordernum}.<\/p>\r\n\r\n<p>We will do our best to ship your order within 48 hours.<\/p>\r\n"},
+  {"ptext_id":"14","ptext_lang":"2","ptext_mid":"7","ptext_subject":"Order shipped","ptext_mail":"<p>Hello {name},<\/p>\r\n\r\n<p>Your order No.: {ordernum} has been shipped!&nbsp;You can track your parcel at this link:&nbsp;{link}<\/p>\r\n"},
+  {"ptext_id":"15","ptext_lang":"2","ptext_mid":"8","ptext_subject":"Autoreply","ptext_mail":"<p>Hello,<\/p>\r\n\r\n<p>Thank you for your&nbsp;e-mail. We will answer it as soon as possible! Remember however that we rest at the weekend.&nbsp;<\/p>\r\n"},
+  {"ptext_id":"16","ptext_lang":"2","ptext_mid":"9","ptext_subject":"Invoice","ptext_mail":"<p>Hello {name},<\/p>\r\n\r\n<p>You can find an electronical invoice to the products you have purchased in our shop in the attachment. As you have probably noticed, you have received only delivery note with the goods. It is our common routine.<\/p>\r\n\r\n<p>I hope you are satisfied with our goods.<\/p>\r\n\r\n<p>If you need some more prohormones, you know where to find us.<\/p>\r\n\r\n<p>I wish you a nice rest of the day.<\/p>\r\n"},
+  {"ptext_id":"17","ptext_lang":"2","ptext_mid":"10","ptext_subject":"Review","ptext_mail":"<p>Hello {name},<\/p>\r\n\r\n<p>A few weeks ago, you bought some prohormones from our e-shop. We are very keen to find out what results you have obtained. If you are willing to send us some positive comments or pictures before and after, which we could publish with your consent on our website, we will reward you with a bonus card that can be used for future purchases of prohormones.<\/p>\r\n\r\n<p>You can send a review by completing a questionnaire at: {link}<\/p>\r\n\r\n<p>Thank you and have a nice rest of the day.<\/p>\r\n"},
+  {"ptext_id":"18","ptext_lang":"2","ptext_mid":"11","ptext_subject":"New message","ptext_mail":"<p>Hello {name},<\/p>\r\n\r\n<p>You got a new message. You can find it in the Messages section in the user menu.<\/p>\r\n"},
+  {"ptext_id":"19","ptext_lang":"3","ptext_mid":"1","ptext_subject":"Registrierung","ptext_mail":"<p>Hallo {name},<\/p>\r\n\r\n<p>Deine Registrierung war erfolgreich! Herzlich Willkommen auf der Webseite Prohormones.eu<\/p>\r\n\r\n<p>E-Mail: {email}<\/p>\r\n\r\n<p>Passwort: {pwd}<\/p>\r\n\r\n<p>Wenn dir nicht gelingen ist, dein Konto per SMS zu aktivieren, kannst du es auf diesem Link aktivieren: <a href=\"https:\/\/prohormones.eu\/\">{link}<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n"},
+  {"ptext_id":"20","ptext_lang":"3","ptext_mid":"2","ptext_subject":"Vergessenes Passwort ","ptext_mail":"<p>Hallo!&nbsp;{name},<\/p>\r\n\r\n<p>Hast du dein Passwort vergessen? Ich sende dir einen Link, mit dem Du ein neues Passwort festlegen kannst. Wenn Du diese \u00c4nderung nicht beantragt hast, kannst Du diese E-Mail einfach ignorieren.<\/p>\r\n\r\n<p>Link: <a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n"},
+  {"ptext_id":"21","ptext_lang":"3","ptext_mid":"3","ptext_subject":"Neues Passwort  ","ptext_mail":"<p>Hallo {name},<\/p>\r\n\r\n<p>Wir senden Dir aufgrund des Antrags deine neuen Angaben zur Anmeldung.<\/p>\r\n\r\n<p>E-Mail: {email}<\/p>\r\n\r\n<p>Passwort: {pwd}<\/p>\r\n\r\n<p>Dein Passwort kannst du dir jederzeit in der Sektion Profil \u00e4ndern. &nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n"},
+  {"ptext_id":"22","ptext_lang":"3","ptext_mid":"4","ptext_subject":"New order","ptext_mail":"<p>Good morning {name} {surname},<\/p>\r\n\r\n<p>please confirm the order {ordernum}. You can confirm the order by clicking on the following link: {link}<\/p>\r\n\r\n<p>After confirming your order we will send you the payment information<\/p>\r\n"},
+  {"ptext_id":"23","ptext_lang":"3","ptext_mid":"5","ptext_subject":"Bestellung best\u00e4tigt ","ptext_mail":"<p>Hallo {name},<\/p>\r\n\r\n<p>hiermit best\u00e4tige ich deine Bestellung Nr.: {ordernum} im Zusammenhang mit unseren Gesch\u00e4ftsbedingungen. Der gesamte Preis:{sum}&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>Die Angaben zur Bezahlung finden Sie unter diesem Link:<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>Unser Team tut alles daf\u00fcr, damit Ihre Bestellung innerhalb von 48 Stunden versandt wird. \u00dcber den Versand der Bestellung werden wir dich per E-Mail und SMS informieren.<\/p>\r\n"},
+  {"ptext_id":"24","ptext_lang":"3","ptext_mid":"6","ptext_subject":"Zahlung aufgenommen","ptext_mail":"<p>Guten Tag&nbsp;{Name}&nbsp;<\/p>\r\n\r\n<p>Wir sind froh, Ihnen mitteilen zu d\u00fcrfen, dass wir Ihre Zahlung zur Bestellung Nr.: {ordernum} erhalten haben.<\/p>\r\n\r\n<p>Wir tun alles daf\u00fcr, damit Ihre Bestellung innerhalb von 48 Stunden bei Ihnen ankommt.<\/p>\r\n"},
+  {"ptext_id":"25","ptext_lang":"3","ptext_mid":"7","ptext_subject":"Die Bestellung wurde abgesendet ","ptext_mail":"<p>Hallo {name},<\/p>\r\n\r\n<p>Deine Bestellung Nr.: {ordernum} wurde versandt! Auf diesem Link kannst du beobachten, wo sich dein P\u00e4ckchen zur Zeit befindet.:&nbsp;{link}<\/p>\r\n"},
+  {"ptext_id":"26","ptext_lang":"3","ptext_mid":"8","ptext_subject":"Autoreply","ptext_mail":"<p>Hallo,<\/p>\r\n\r\n<p>wir danken dir f\u00fcr deine E-Mail. Wir werden deine E-Mail schnellstm\u00f6glich beantworten! Denke aber daran, dass wir am Wochenende ausruhen. &nbsp;<\/p>\r\n"},
+  {"ptext_id":"27","ptext_lang":"3","ptext_mid":"9","ptext_subject":"Rechnung","ptext_mail":"<p>Hallo {name},<\/p>\r\n\r\n<p>In der Anlage sende ich dir eine elektronische Rechnung zu den Produkten, die du dir in unserem Shop gekauft hast. Wie du sicher bemerkt hast, mit der Ware hast du nur einen Lieferschein bekommen. Das ist unsere gew\u00f6hnliche Routine.&nbsp;<\/p>\r\n\r\n<p>Ich hoffe, dass du mit unseren Produkten zufrieden bist.<\/p>\r\n\r\n<p>Wenn du noch weitere Prohormone brauchst, wei\u00dft du, wo du sie findest.<\/p>\r\n\r\n<p>Ich w\u00fcnsche dir einen angenehmen Tag noch.<\/p>\r\n"},
+  {"ptext_id":"28","ptext_lang":"3","ptext_mid":"10","ptext_subject":"Rezension","ptext_mail":"<p>Hallo {name},<\/p>\r\n\r\n<p>vor ein paar Wochen hast du dir bei uns Prohormone eingekauft. Mich w\u00fcrde sehr freuen, welche Ergebnisse du erzielt hast. Wenn du so nett sein w\u00fcrdest, k\u00f6nntest du uns einen positiven Kommentar senden, bzw. irgendwelche Fotos vor und nach der Kur, die wir nachher dank deiner Zustimmung an unserer Webseite ver\u00f6ffentlichen k\u00f6nnten. So entlohnen wir dich mit einer Bonuskarte f\u00fcr den Kauf von weiteren Prohormonen.<\/p>\r\n\r\n<p>Die Rezension kann du durch die Ausf\u00fcllung des Formulars auf den: {link} absenden.<\/p>\r\n\r\n<p>Ich danke Dir und w\u00fcnsche einen angenehmen Tag.<\/p>\r\n"},
+  {"ptext_id":"29","ptext_lang":"3","ptext_mid":"11","ptext_subject":"Neue Nachricht ","ptext_mail":"<p>Hallo {name},<\/p>\r\n\r\n<p>Dir ist eine neue Nachricht gekommen. Du findest sie in der Sektion Nachrichten im Benutzermen\u00fc.<\/p>\r\n"},
+  {"ptext_id":"30","ptext_lang":"5","ptext_mid":"1","ptext_subject":"Inscription","ptext_mail":"<p>Salut {name},<\/p>\r\n\r\n<p>Ton inscription a r\u00e9ussi&nbsp;!&nbsp;Bienvenu sur le site Prohormony.sk.<\/p>\r\n\r\n<p>E-mail : {email}<\/p>\r\n\r\n<p>Mot de passe : {pwd}<\/p>\r\n\r\n<p>Si tu n&rsquo;as pas arriv\u00e9 \u00e0 activer ton compte via le code de SMS, tu peux l&rsquo;activer sur ce lien&nbsp;:&nbsp;<a href=\"https:\/\/prohormones.eu\/\">{link}<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n"},
+  {"ptext_id":"31","ptext_lang":"5","ptext_mid":"2","ptext_subject":"Mot de passe oubli\u00e9 ","ptext_mail":"<p>Salut&nbsp;{name},<\/p>\r\n\r\n<p>Tu as oubli\u00e9 ton mot de passe ? Je t&rsquo;envoie un lien pour r\u00e9cup\u00e9rer ton mot de passe. Si tu n&rsquo;as pas initi\u00e9 ce changement, ignore cet e-mail, s&rsquo;il te plait.<\/p>\r\n\r\n<p>Link : <a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n"},
+  {"ptext_id":"32","ptext_lang":"5","ptext_mid":"3","ptext_subject":"Nouveau mot de passe ","ptext_mail":"<p>Salut {name},<\/p>\r\n\r\n<p>Bas\u00e9 sur ta demande, nous t&rsquo;envoyons tes informations de connexion.<\/p>\r\n\r\n<p>E-mail : {email}<\/p>\r\n\r\n<p>Mot de passe : {pwd}<\/p>\r\n\r\n<p>Tu peux toujours changer ton mot de passe dans la section de Profil.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n"},
+  {"ptext_id":"33","ptext_lang":"5","ptext_mid":"4","ptext_subject":"New order","ptext_mail":"<p>Good morning {name} {surname},<\/p>\r\n\r\n<p>please confirm the order {ordernum}. You can confirm the order by clicking on the following link: {link}<\/p>\r\n\r\n<p>After confirming your order we will send you the payment information<\/p>\r\n"},
+  {"ptext_id":"34","ptext_lang":"5","ptext_mid":"5","ptext_subject":"Commande confirm\u00e9e ","ptext_mail":"<p>Salut {name},<\/p>\r\n\r\n<p>Je confirme ton commande No.: {ordernum} par rapport \u00e0 nos termes et conditions. Prix \u200b\u200btotal : {sum}&nbsp;<\/p>\r\n\r\n<p>Les dates sur le payement sont disponibles sur ce lien:<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>Notre \u00e9quipe fera de son mieux pour exp\u00e9dier ta commande en 48 heures. Tu seras inform\u00e9 sur l&rsquo;envoi de ta commande par e-mail et SMS.&nbsp;<\/p>\r\n"},
+  {"ptext_id":"35","ptext_lang":"5","ptext_mid":"6","ptext_subject":"Paiement re\u00e7u ","ptext_mail":"<p>Salut&nbsp;{name}&nbsp;<\/p>\r\n\r\n<p>Nous sommes heureux de t&rsquo;annoncer que nous avons re\u00e7u le paiement pour la commande No.: {ordernum}.<\/p>\r\n\r\n<p>Nous ferons tout pour exp\u00e9dier ta commande en 48 heures.<\/p>\r\n"},
+  {"ptext_id":"36","ptext_lang":"5","ptext_mid":"7","ptext_subject":"Commande envoy\u00e9e ","ptext_mail":"<p>Salut {name},<\/p>\r\n\r\n<p>Ta commande No.: {ordernum} a \u00e9t\u00e9 envoy\u00e9e!&nbsp;Tu peux suivre ton paquet sur ce lien&nbsp;:&nbsp;<a href=\"https:\/\/prohormones.eu\/\">{link}<\/a><\/p>\r\n"},
+  {"ptext_id":"37","ptext_lang":"5","ptext_mid":"8","ptext_subject":"Autoreply","ptext_mail":"<p>Salut,<\/p>\r\n\r\n<p>Merci pour ton&nbsp;e-mail. Nous r\u00e9pondrons d\u00e8s que possible ! Rappelle-toi cependant que le week-end c&rsquo;est le repos.&nbsp;<\/p>\r\n"},
+  {"ptext_id":"38","ptext_lang":"5","ptext_mid":"9","ptext_subject":"Facture ","ptext_mail":"<p>Salut {name},<\/p>\r\n\r\n<p>Ci-joint, je t&rsquo;envoie la facture \u00e9lectronique pour les produits que tu as achet\u00e9s dans notre magasin. Comme tu l&#39;as probablement remarqu\u00e9, tu as re\u00e7u avec les biens que le bon de livraison. C&rsquo;est notre routine normale.<\/p>\r\n\r\n<p>J&#39;esp\u00e8re que tu es satisfait de nos produits.<\/p>\r\n\r\n<p>Si tu as besoin des prohormones suppl\u00e9mentaire, tu sais o\u00f9 nous trouver.<\/p>\r\n\r\n<p>Bonne fin de journ\u00e9e.<\/p>\r\n"},
+  {"ptext_id":"39","ptext_lang":"5","ptext_mid":"10","ptext_subject":"Ton exp\u00e9rience ","ptext_mail":"<p>Salut {name},<\/p>\r\n\r\n<p>Il y a quelques semaines que tu as achet\u00e9 des prohormones chez nous. Je serais tr\u00e8s curieux de savoir quels sont les r\u00e9sultats que tu as obtenus. Si tu es pr\u00eat \u00e0 nous envoyer des commentaires positifs, ou des images avant et apr\u00e8s que nous pouvions avec ton consentement publier sur notre site, nous te r\u00e9compensons par une carte bonus qui peut \u00eatre utilis\u00e9e pour tes futurs achats des prohormones.<\/p>\r\n\r\n<p>Tu peux envoyer ton exp\u00e9rience en remplissant le formulaire sur : <a href=\"https:\/\/prohormones.eu\/\">{link}<\/a><\/p>\r\n\r\n<p>Merci et bonne fin de journ\u00e9e.<\/p>\r\n\r\n<p>.<\/p>\r\n"},
+  {"ptext_id":"40","ptext_lang":"5","ptext_mid":"11","ptext_subject":"Nouveau message ","ptext_mail":"<p>Salut {name},<\/p>\r\n\r\n<p>Tu as re\u00e7u un nouveau message. Tu peux le trouver dans la section des Messages dans le menu d&rsquo;utilisateur.<\/p>\r\n"},
+  {"ptext_id":"42","ptext_lang":"4","ptext_mid":"1","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"43","ptext_lang":"6","ptext_mid":"1","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"44","ptext_lang":"7","ptext_mid":"1","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"46","ptext_lang":"4","ptext_mid":"2","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"47","ptext_lang":"6","ptext_mid":"2","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"48","ptext_lang":"7","ptext_mid":"2","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"50","ptext_lang":"4","ptext_mid":"3","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"51","ptext_lang":"6","ptext_mid":"3","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"52","ptext_lang":"7","ptext_mid":"3","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"54","ptext_lang":"4","ptext_mid":"4","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"55","ptext_lang":"6","ptext_mid":"4","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"56","ptext_lang":"7","ptext_mid":"4","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"58","ptext_lang":"4","ptext_mid":"5","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"59","ptext_lang":"6","ptext_mid":"5","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"60","ptext_lang":"7","ptext_mid":"5","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"62","ptext_lang":"4","ptext_mid":"7","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"63","ptext_lang":"6","ptext_mid":"7","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"64","ptext_lang":"7","ptext_mid":"7","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"66","ptext_lang":"4","ptext_mid":"9","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"67","ptext_lang":"6","ptext_mid":"9","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"68","ptext_lang":"7","ptext_mid":"9","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"70","ptext_lang":"4","ptext_mid":"10","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"71","ptext_lang":"6","ptext_mid":"10","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"72","ptext_lang":"7","ptext_mid":"10","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"74","ptext_lang":"4","ptext_mid":"11","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"75","ptext_lang":"6","ptext_mid":"11","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"76","ptext_lang":"7","ptext_mid":"11","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"77","ptext_lang":"8","ptext_mid":"1","ptext_subject":"Regisztr\u00e1ci\u00f3","ptext_mail":"<p>Szia {name}!<\/p>\r\n\r\n<p>A&nbsp;regisztr\u00e1ci\u00f3d sikeres volt! \u00dcdv\u00f6zl\u00fcnk a Prohormones.eu oldal\u00e1n.<br \/>\r\nEmail: {email}<br \/>\r\nJelsz\u00f3: {pwd}<\/p>\r\n\r\n<p>Ha nem siker\u00fclt a&nbsp;fi\u00f3kod aktiv\u00e1l\u00e1sa az SMS-k\u00f3d seg\u00edts\u00e9g\u00e9vel, a&nbsp;k\u00f6vetkez\u0151 linken megteheted: &nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nOliver<\/p>\r\n\r\n<p>Prohormones.eu<\/p>\r\n"},
+  {"ptext_id":"78","ptext_lang":"8","ptext_mid":"2","ptext_subject":"Elfelejtett jelsz\u00f3","ptext_mail":"<p>Szia&nbsp;{name}!<\/p>\r\n\r\n<p>Elfelejtetted a jelszavad? K\u00fcld\u00f6m a&nbsp;linket az \u00faj jelsz\u00f3 helyre\u00e1ll\u00edt\u00e1s\u00e1hoz. Ha nem Te k\u00e9rv\u00e9nyezted ezt a&nbsp;v\u00e1ltoztat\u00e1st, k\u00e9rlek ne vedd figyelembe ezt az e-mailt.<br \/>\r\nLink: <a href=\"{link}\">{link}<\/a><br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nOliver<\/p>\r\n\r\n<p>Prohormones.eu<\/p>\r\n"},
+  {"ptext_id":"79","ptext_lang":"8","ptext_mid":"3","ptext_subject":"\u00daj jelsz\u00f3","ptext_mail":"<p>Szia {name}!<\/p>\r\n\r\n<p>K\u00e9r\u00e9sedre k\u00fcldj\u00fck a&nbsp;bejelentkez\u00e9si adataidat.<\/p>\r\n\r\n<p>E-mail: {email}<br \/>\r\nJelsz\u00f3: {pwd}<\/p>\r\n\r\n<p>A&nbsp;jelsz\u00f3t b\u00e1rmikor megv\u00e1ltoztathatod a&nbsp;Profil szekci\u00f3ban.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u0151zlettel<br \/>\r\nOliver<\/p>\r\n\r\n<p>Prohormones.eu<\/p>\r\n"},
+  {"ptext_id":"80","ptext_lang":"8","ptext_mid":"4","ptext_subject":"\u00daj megrendel\u00e9s","ptext_mail":"<p>Szia {name}!<\/p>\r\n\r\n<p>K\u00e9rlek, igazold a&nbsp;{ordernum} sz. megrendel\u00e9st. &nbsp;<a href=\"%7blink%7d\">{link}<\/a>&nbsp;<\/p>\r\n\r\n<p>K\u00f6sz\u00f6n\u00f6m.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nOliver<\/p>\r\n\r\n<p>Prohormones.eu<\/p>\r\n"},
+  {"ptext_id":"81","ptext_lang":"8","ptext_mid":"5","ptext_subject":"A megrend\u00e9s igazolva","ptext_mail":"<p>Szia {name}!<\/p>\r\n\r\n<p>Ez\u00faton igazolom a {ordernum} sz. megrendel\u00e9sedet, az \u00fczleti felt\u00e9teleinkkel \u00f6sszhangban. Teljes \u00e1r: {sum}.<\/p>\r\n\r\n<p>Ezen a&nbsp;linken tal\u00e1lod a&nbsp;fizet\u00e9shez sz\u00fcks\u00e9ges adatokat:&nbsp;<a href=\"{link}\">{link}<\/a><\/p>\r\n\r\n<p>Csapatunk mindent megtesz az\u00e9rt, hogy megrendel\u00e9sedet 48 \u00f3r\u00e1n bel\u00fcl elk\u00fcldj\u00fck. A&nbsp;megrendel\u00e9s elk\u00fcld\u00e9s\u00e9r\u0151l \u00e9rtes\u00edt\u00e9st kapsz majd e-mailben \u00e9s SMS-ben.<\/p>\r\n\r\n<p>K\u00f6sz\u00f6nj\u00fck megrendel\u00e9sedet<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nOliver<\/p>\r\n\r\n<p>Prohormones.eu<\/p>\r\n"},
+  {"ptext_id":"82","ptext_lang":"8","ptext_mid":"7","ptext_subject":"A megrendel\u00e9s elk\u00fcldve","ptext_mail":"<p>Szia {name}!<\/p>\r\n\r\n<p>A {ordernum}sz. megrendel\u00e9sedet elk\u00fcldt\u00fck! Ezen a&nbsp;linken k\u00f6vetheted, hogy pillanatnyilag hol tal\u00e1lhat\u00f3 a&nbsp;csomagod:&nbsp;{link}<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nOliver<\/p>\r\n\r\n<p>Prohormony.eu<\/p>\r\n"},
+  {"ptext_id":"84","ptext_lang":"4","ptext_mid":"8","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"85","ptext_lang":"6","ptext_mid":"8","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"86","ptext_lang":"7","ptext_mid":"8","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"87","ptext_lang":"8","ptext_mid":"8","ptext_subject":"Autoreply","ptext_mail":"<p>Szia!<\/p>\r\n\r\n<p>K\u00f6sz\u00f6nj\u00fck e-mailedet. Azonnal v\u00e1laszolunk, amint lehets\u00e9ges! De ne feledd, hogy h\u00e9tv\u00e9g\u00e9n pihen\u00fcnk.<\/p>\r\n"},
+  {"ptext_id":"88","ptext_lang":"8","ptext_mid":"9","ptext_subject":"Sz\u00e1mla","ptext_mail":"<p>Szia {name}!<\/p>\r\n\r\n<p>Csatol\u00e1sban k\u00fcld\u00f6m az elektronikus sz\u00e1ml\u00e1t a&nbsp;term\u00e9kekhez, amelyeket megv\u00e1s\u00e1rolt\u00e1l \u00fczlet\u00fcnkben. Ahogy tal\u00e1n m\u00e1r \u00e9szrevetted, az \u00e1ruval csak sz\u00e1ll\u00edt\u00f3levelet kapt\u00e1l. Ez a&nbsp;mi \u00e1ltal\u00e1nos rutinunk.&nbsp;<\/p>\r\n\r\n<p>Rem\u00e9lem, hogy term\u00e9keinkkel el\u00e9gedett vagy.<\/p>\r\n\r\n<p>Ha tov\u00e1bbi prohormonokra lenne sz\u00fcks\u00e9ged, tudod, hol tal\u00e1lsz minket.<\/p>\r\n\r\n<p>Tov\u00e1bbi kellemes napot k\u00edv\u00e1nok.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nOliver<\/p>\r\n\r\n<p>Prohormones.eu<\/p>\r\n"},
+  {"ptext_id":"89","ptext_lang":"8","ptext_mid":"10","ptext_subject":"Recenzi\u00f3","ptext_mail":"<p>Szia {name}!<\/p>\r\n\r\n<p>N\u00e9h\u00e1ny hete prohormonokat v\u00e1s\u00e1rolt\u00e1l n\u00e1lunk. Nagyon \u00e9rdekelne, hogy milyen eredm\u00e9nyeket \u00e9rt\u00e9l el. Ha hajland\u00f3 vagy r\u00e1, \u00edrj nek\u00fcnk hozz\u00e1sz\u00f3l\u00e1st azokhoz a&nbsp;term\u00e9kekhez, amelyeket haszn\u00e1lt\u00e1l, esetleg k\u00fcldj fot\u00f3kat &bdquo;el\u0151tte&ldquo; \u00e9s &bdquo;ut\u00e1na&ldquo;, amelyeket nyilv\u00e1noss\u00e1gra hozhatn\u00e1nk az oldalunkon a&nbsp;Te beleegyez\u00e9seddel. A&nbsp;term\u00e9kkel kapcsolatos tapasztalataid seg\u00edthetnek m\u00e1s v\u00e1s\u00e1rl\u00f3knak a&nbsp;v\u00e1laszt\u00e1sban. El\u0151re is k\u00f6sz\u00f6nj\u00fck \u00e9s \u00f6r\u00fcl\u00fcnk a&nbsp;tov\u00e1bbi egy\u00fcttm\u0171k\u00f6d\u00e9snek.<\/p>\r\n\r\n<p>A&nbsp;term\u00e9keket k\u00f6zvetlen\u00fcl ezen a&nbsp;linken \u00e9rt\u00e9kelheted: {link}<\/p>\r\n\r\n<p>K\u00f6sz\u00f6n\u00f6m \u00e9s tov\u00e1bbi kellemes napot k\u00edv\u00e1nok.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<\/p>\r\n"},
+  {"ptext_id":"90","ptext_lang":"8","ptext_mid":"11","ptext_subject":"\u00daj  \u00fczenet","ptext_mail":"<p>Szia {name}!<\/p>\r\n\r\n<p>\u00daj \u00fczenetet kapt\u00e1l. A&nbsp;felhaszn\u00e1l\u00f3i men\u00fcben tal\u00e1lhatod meg, az \u00dczenetek szekci\u00f3ban.<br \/>\r\n<br \/>\r\n---&nbsp;<br \/>\r\n\u00dcdv\u00f6zlettel<br \/>\r\nOliver<\/p>\r\n\r\n<p>Prohormones.eu<\/p>\r\n"},
+  {"ptext_id":"92","ptext_lang":"4","ptext_mid":"6","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"93","ptext_lang":"6","ptext_mid":"6","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"94","ptext_lang":"7","ptext_mid":"6","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"95","ptext_lang":"8","ptext_mid":"6","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"97","ptext_lang":"2","ptext_mid":"12","ptext_subject":"{subject}","ptext_mail":"{msg}"},
+  {"ptext_id":"98","ptext_lang":"3","ptext_mid":"12","ptext_subject":"{subject}","ptext_mail":"{msg}"},
+  {"ptext_id":"99","ptext_lang":"4","ptext_mid":"12","ptext_subject":"{subject}","ptext_mail":"{msg}"},
+  {"ptext_id":"100","ptext_lang":"5","ptext_mid":"12","ptext_subject":"{subject}","ptext_mail":"{msg}"},
+  {"ptext_id":"101","ptext_lang":"6","ptext_mid":"12","ptext_subject":"{subject}","ptext_mail":"{msg}"},
+  {"ptext_id":"102","ptext_lang":"7","ptext_mid":"12","ptext_subject":"{subject}","ptext_mail":"{msg}"},
+  {"ptext_id":"103","ptext_lang":"8","ptext_mid":"12","ptext_subject":"{subject}","ptext_mail":"{msg}"},
+  {"ptext_id":"104","ptext_lang":"9","ptext_mid":"1","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"105","ptext_lang":"10","ptext_mid":"1","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"106","ptext_lang":"11","ptext_mid":"1","ptext_subject":" \u00cenregistrare","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103 {name},<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">\u00cenregistrarea dvs. a avut succes! Bun venit la Prohormony.sk<br \/>\r\nEmail: {email}<br \/>\r\nParola: {pwd}<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Dac\u0103 nu a\u021bi reu\u0219it s\u0103 v\u0103 activa\u021bi cotul prin codul SMS, \u00eel pute\u021bi activa cu ajutorul acestui link: <a href=\"%7blink%7d\">{link}<\/a><\/p>\r\n"},
+  {"ptext_id":"107","ptext_lang":"9","ptext_mid":"2","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"108","ptext_lang":"10","ptext_mid":"2","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"109","ptext_lang":"11","ptext_mid":"2","ptext_subject":"Ti-ai uitat parola","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103&nbsp;{name},<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">A\u021bi uitat parola? V\u0103 trimitem un link pentru resetarea parolei. Dac\u0103 nu a\u021bi solicitat aceast\u0103 modificare, ignora\u021bi aceast e-mail.<br \/>\r\nLink: <a href=\"%7blink%7d\">{link}<\/a><\/p>\r\n"},
+  {"ptext_id":"110","ptext_lang":"9","ptext_mid":"3","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"111","ptext_lang":"10","ptext_mid":"3","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"112","ptext_lang":"11","ptext_mid":"3","ptext_subject":"Parol\u0103 Nou\u0103","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103 {name},<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">la cererea Dvs. v\u0103 trimite datele dvs. de conectare.<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">E-mail: {email}<br \/>\r\nParola: {pwd}<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Parola v\u0103 pute\u021bi schimba oric\u00e2nd \u00een sec\u021biunea Profil.<\/p>\r\n"},
+  {"ptext_id":"113","ptext_lang":"9","ptext_mid":"4","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"114","ptext_lang":"10","ptext_mid":"4","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"115","ptext_lang":"11","ptext_mid":"4","ptext_subject":"Comand\u0103 nou\u0103","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103 {name},<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">V\u0103 rog s\u0103 confirma\u021bi comanda {ordernum}. &nbsp;<a href=\"%7blink%7d\">{link}<\/a>&nbsp;<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Mul\u021bumesc.<\/p>\r\n"},
+  {"ptext_id":"116","ptext_lang":"9","ptext_mid":"5","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"117","ptext_lang":"10","ptext_mid":"5","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"118","ptext_lang":"11","ptext_mid":"5","ptext_subject":"Confirmarea comenzii","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103 {name},<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Prin prezenta, confirm comanda dumneavoastr\u0103 Nr.: {ordernum} cu privire la cu condi\u021biile noastre de afaceri.&nbsp;Pre\u021b total: {sum}.<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Pe acest link ve\u021bi g\u0103si informa\u021bii cu privire la plat\u0103:&nbsp;<a href=\"%7blink%7d\">{link}<\/a><\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Echipa noastr\u0103 va face tot posibilul pentru a trimite comanda dvs. \u00een termen de 48 de ore. Despre trimiterea comenzii vei primi informa\u021bii prin e-mail \u0219i SMS. &nbsp;<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">V\u0103 mul\u021bumim pentru comanda dvs.<\/p>\r\n"},
+  {"ptext_id":"119","ptext_lang":"9","ptext_mid":"6","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"120","ptext_lang":"10","ptext_mid":"6","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"121","ptext_lang":"11","ptext_mid":"6","ptext_subject":"Plata primita","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103 ziua&nbsp;{name} {surname},<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Suntem bucuro\u0219i s\u0103 v\u0103 anun\u021b\u0103m c\u0103 am primit plata pentru comanda nr.: {ordernum}.<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Vom face tot posibilul pentru a v\u0103 trimite comanda dvs. \u00een termen de 48 de ore.<\/p>\r\n"},
+  {"ptext_id":"122","ptext_lang":"9","ptext_mid":"7","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"123","ptext_lang":"10","ptext_mid":"7","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"124","ptext_lang":"11","ptext_mid":"7","ptext_subject":"Comanda livrata","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103 {name},<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Comanda dvs. Nr.: {ordernum} a fost trimis\u0103!&nbsp;Pe acest link, pute\u021bi urm\u0103ri unde se afl\u0103 \u00een prezent pachetul dvs:&nbsp;{link}<\/p>\r\n"},
+  {"ptext_id":"125","ptext_lang":"9","ptext_mid":"8","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"126","ptext_lang":"10","ptext_mid":"8","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"127","ptext_lang":"11","ptext_mid":"8","ptext_subject":"Autoreply","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103,<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">mul\u021bumim pentru e-mailul dvs. Vom r\u0103spunde c\u00e2t mai cur\u00e2nd posibil! \u021aine\u021bi minte totu\u0219i, c\u0103 peste weekend ne odihnim.&nbsp;&nbsp;<\/p>\r\n"},
+  {"ptext_id":"128","ptext_lang":"9","ptext_mid":"9","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"129","ptext_lang":"10","ptext_mid":"9","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"130","ptext_lang":"11","ptext_mid":"9","ptext_subject":"Invoice","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103 {name},<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">\u00cen ata\u0219ament, v\u0103 trimite factura electronic\u0103 cu produsele achizi\u021bionate \u00een magazinul nostru. Dup\u0103 cum a\u021bi observat, cu m\u0103rfurile a\u021bi primit doar o not\u0103 de livrare. Este rutina noastr\u0103 normal\u0103.<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Sper c\u0103 sunte\u021bi mul\u021bumi\u021bi cu produsele noastre.<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Dac\u0103 ai nevoie de mai mul\u021bi prohormoni, \u0219tii unde s\u0103 ne g\u0103se\u0219ti.<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">V\u0103 doresc o&nbsp;zi pl\u0103cut\u0103.<\/p>\r\n"},
+  {"ptext_id":"131","ptext_lang":"9","ptext_mid":"10","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"132","ptext_lang":"10","ptext_mid":"10","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"133","ptext_lang":"11","ptext_mid":"10","ptext_subject":"Revizuire","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103 {name},<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Acum c\u00e2teva s\u0103pt\u0103m\u00e2ni a\u021bi cump\u0103rat de la noi prohormonii. Ne-ar interesa foarte mult, rezultatele pe care le-a\u021bi ob\u021binut. Dac\u0103 ave\u021bi bun\u0103voin\u021b\u0103, scrie\u021bi-ne un comentariu despre produsele pe care le-a\u021bi folosit, sau trimite\u021bi-ne fotografiile au fost f\u0103cute \u00eenainte \u0219i dup\u0103, pe care le putem posta cu acordul dvs. pe site-ul nostru. Experien\u021ba dvs. cu produsul poate ajuta \u0219i pe al\u021bi cump\u0103r\u0103tori \u00een alegerea corect\u0103. V\u0103 mul\u021bumim anticipat \u0219i a\u0219tept cu ner\u0103bdare s\u0103 cooperarea \u00een continuare.<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Pute\u021bi evalua produsele direct pe acest link: {link}<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">V\u0103 mul\u021bumim \u0219i v\u0103 dorim o&nbsp;zi pl\u0103cut\u0103.<\/p>\r\n"},
+  {"ptext_id":"134","ptext_lang":"9","ptext_mid":"11","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"135","ptext_lang":"10","ptext_mid":"11","ptext_subject":"","ptext_mail":""},
+  {"ptext_id":"136","ptext_lang":"11","ptext_mid":"11","ptext_subject":"Mesaj nou","ptext_mail":"<p style=\"margin-left:0cm; margin-right:0cm\">Bun\u0103 {name},<\/p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Ai primit un nou mesaj. \u00cel vei g\u0103si \u00een sec\u021biunea mesaje \u00een meniului utilizatorului.<\/p>\r\n"}
+
 ]
