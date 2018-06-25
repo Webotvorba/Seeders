@@ -58,35 +58,28 @@
   {
     "ptext_id": "42",
     "ptext_lang": "1",
-    "ptext_mid": "10",
+    "ptext_mid": "9",
     "ptext_subject": "Fakt\u00fara - example.com",
     "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>v pr\u00edlohe Ti zasielam elektronick\u00fa fakt\u00faru k produktom, ktor\u00e9 si si zak\u00fapil v na\u0161om obchode. Ako si asi postrehol, s tovarom si obdr\u017eal len dodac\u00ed list. Je to na\u0161a be\u017en\u00e1 rutina.<\/p>\r\n\r\n<p>D\u00fafam, \u017ee si s na\u0161im tovarom spokojn\u00fd.<\/p>\r\n\r\n<p>Ak by si potreboval \u010fal\u0161ie , vie\u0161 kde n\u00e1s n\u00e1jde\u0161.<\/p>\r\n\r\n<p>Prajem pr\u00edjemn\u00fd zvy\u0161ok d\u0148a.<br \/>\r\n&nbsp;<\/p>\r\n"
   },
   {
     "ptext_id": "43",
     "ptext_lang": "1",
-    "ptext_mid": "11",
+    "ptext_mid": "10",
     "ptext_subject": "Recenzia - example.com ",
     "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>pred p\u00e1r t\u00fd\u017ed\u0148ami si si u n\u00e1s zak\u00fapil . Ve\u013emi by ma zauj\u00edmalo ak\u00e9 v\u00fdsledky si dosiahol. Ak bude\u0161 ochotn\u00fd, nap\u00ed\u0161 n\u00e1m koment\u00e1r k produktom ktor\u00e9 si u\u017e\u00edval, poprip\u00e1de za\u0161li fotky pred a po, ktor\u00e9 by sme mohli s Tvojim s\u00fahlasom na na\u0161om webe zverejni\u0165. Tvoje sk\u00fasenosti s produktom m\u00f4\u017eu pom\u00f4c\u0165 pri v\u00fdbere ostatn\u00fdm nakup\u00fajucim. Vopred \u010fakujeme a te\u0161\u00edme sa na \u010fal\u0161iu spolupr\u00e1cu.<\/p>\r\n\r\n<p>Hodnoti\u0165 produkty m\u00f4\u017ee\u0161 priamo na odkaze: {link}<\/p>\r\n\r\n<p>\u010eakujem a prajem pr\u00edjemn\u00fd zvy\u0161ok d\u0148a.<br \/>\r\n&nbsp;<\/p>\r\n"
   },
   {
     "ptext_id": "44",
     "ptext_lang": "1",
-    "ptext_mid": "12",
+    "ptext_mid": "11",
     "ptext_subject": "Nov\u00e1 spr\u00e1va - example.com",
     "ptext_mail": "<p>Ahoj {name},<\/p>\r\n\r\n<p>Pri\u0161la Ti nov\u00e1 spr\u00e1va. N\u00e1jde\u0161 ju v sekcii spr\u00e1vy v u\u017e\u00edvate\u013eskom menu.<br \/>\r\n&nbsp;<\/p>\r\n"
   },
   {
-    "ptext_id": "81",
-    "ptext_lang": "1",
-    "ptext_mid": "13",
-    "ptext_subject": "Chybn\u00e1 platba",
-    "ptext_mail": "<p>Chybn\u00e1 platba - overi\u0165, \u010d\u00edslo obj.: {vs}<\/p>\r\n"
-  },
-  {
     "ptext_id": "140",
     "ptext_lang": "1",
-    "ptext_mid": "14",
+    "ptext_mid": "12",
     "ptext_subject": "{subject}",
     "ptext_mail": "{msg}"
   },

@@ -32,23 +32,19 @@
     "email_name": "autoreply"
   },
   {
-    "email_id": "10",
+    "email_id": "9",
     "email_name": "invoice"
   },
   {
-    "email_id": "11",
+    "email_id": "10",
     "email_name": "review"
   },
   {
-    "email_id": "12",
+    "email_id": "11",
     "email_name": "new_msg"
   },
   {
-    "email_id": "13",
-    "email_name": "payment_error"
-  },
-  {
-    "email_id": "14",
+    "email_id": "12",
     "email_name": "system"
   }
 ]
