@@ -57,13 +57,14 @@
     {"id":"56","name":"Predaj","description":"Mesa\u010dn\u00fd preh\u013ead objedn\u00e1vok","url":"\/admin\/stats\/sale","parent":"55","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
     {"id":"57","name":"N\u00e1v\u0161tevnos\u0165","description":"N\u00e1v\u0161tevnos\u0165","url":"\/admin\/stats\/visitors","parent":"55","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
     {"id":"58","name":"Platobne moduly","description":"Mo\u017enosti platobn\u00fdch modulov","url":"payments","parent":"0","icon":"fal fa-credit-card","order":"0","visible":"1","created_at":null,"updated_at":null},
-    {"id":"59","name":"Platobne moduly - popis","description":"Popis platobn\u00fdch modulov","url":"\/admin\/payments\/all","parent":"58","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
-    {"id":"60","name":"Ostatn\u00e9","description":"","url":"misc","parent":"0","icon":"fal fa-cog","order":"0","visible":"1","created_at":null,"updated_at":null},
-    {"id":"61","name":"Export","description":"Export","url":"\/admin\/misc\/export","parent":"60","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
-    {"id":"62","name":"Import","description":"Import","url":"\/admin\/misc\/import","parent":"60","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
-    {"id":"63","name":"Export emailov","description":"Export emailov","url":"\/admin\/misc\/emails","parent":"60","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
-    {"id":"64","name":"Gal\u00e9ria","description":"Gal\u00e9ria","url":"galleries","parent":"0","icon":"","order":"0","visible":"0","created_at":null,"updated_at":null},
-    {"id":"65","name":"N\u00e1klady","description":"N\u00e1klady","url":"naklady","parent":"0","icon":"fal fa-money-bill-alt","order":"0","visible":"1","created_at":null,"updated_at":null},
-    {"id":"66","name":"Preh\u013ead","description":"Preh\u013ead n\u00e1kladov","url":"\/admin\/naklady\/prehlad","parent":"65","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
-    {"id":"67","name":"Prida\u0165 polo\u017eku","description":"Prida\u0165 polo\u017eku do n\u00e1kladov","url":"\/admin\/naklady\/pridat","parent":"65","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null}
+    {"id":"59","name":"Zoznam platobn\u00FDch modulov","description":"Popis platobn\u00fdch modulov","url":"\/admin\/payments\/all","parent":"58","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
+    {"id":"60","name":"Prida\u0165 platobn\u00FD modul","description":"Prida\u0165 platobn\u00FD modul","url":"\/admin\/payments\/add","parent":"58","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
+    {"id":"61","name":"Ostatn\u00e9","description":"","url":"misc","parent":"0","icon":"fal fa-cog","order":"0","visible":"1","created_at":null,"updated_at":null},
+    {"id":"62","name":"Export","description":"Export","url":"\/admin\/misc\/export","parent":"61","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
+    {"id":"63","name":"Import","description":"Import","url":"\/admin\/misc\/import","parent":"61","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
+    {"id":"64","name":"Export emailov","description":"Export emailov","url":"\/admin\/misc\/emails","parent":"61","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
+    {"id":"65","name":"Gal\u00e9ria","description":"Gal\u00e9ria","url":"galleries","parent":"0","icon":"","order":"0","visible":"0","created_at":null,"updated_at":null},
+    {"id":"66","name":"N\u00e1klady","description":"N\u00e1klady","url":"naklady","parent":"0","icon":"fal fa-money-bill-alt","order":"0","visible":"1","created_at":null,"updated_at":null},
+    {"id":"67","name":"Preh\u013ead","description":"Preh\u013ead n\u00e1kladov","url":"\/admin\/naklady\/prehlad","parent":"66","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
+    {"id":"68","name":"Prida\u0165 polo\u017eku","description":"Prida\u0165 polo\u017eku do n\u00e1kladov","url":"\/admin\/naklady\/pridat","parent":"66","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null}
 ]
