@@ -66,5 +66,6 @@
     {"id":"65","name":"Gal\u00e9ria","description":"Gal\u00e9ria","url":"galleries","parent":"0","icon":"","order":"0","visible":"0","created_at":null,"updated_at":null},
     {"id":"66","name":"N\u00e1klady","description":"N\u00e1klady","url":"naklady","parent":"0","icon":"fal fa-money-bill-alt","order":"0","visible":"1","created_at":null,"updated_at":null},
     {"id":"67","name":"Preh\u013ead","description":"Preh\u013ead n\u00e1kladov","url":"\/admin\/naklady\/prehlad","parent":"66","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
-    {"id":"68","name":"Prida\u0165 polo\u017eku","description":"Prida\u0165 polo\u017eku do n\u00e1kladov","url":"\/admin\/naklady\/pridat","parent":"66","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null}
+    {"id":"68","name":"Prida\u0165 polo\u017eku","description":"Prida\u0165 polo\u017eku do n\u00e1kladov","url":"\/admin\/naklady\/pridat","parent":"66","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null},
+    {"id":"69","name":"Presmerovania","description":"Presmerovania","url":"\/admin\/settings\/redirects","parent":"10","icon":"","order":"0","visible":"1","created_at":null,"updated_at":null}
 ]
