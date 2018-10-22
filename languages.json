@@ -1,101 +1,13 @@
 [
-  {
-    "lang_id": "1",
-    "lang_name": "sloven\u010dina",
-    "lang_showname": "Sloven\u010dina",
-    "lang_abbr": "SK",
-    "lang_active": "1",
-    "lang_redirect": "1",
-    "lang_tld": "sk"
-  },
-  {
-    "lang_id": "2",
-    "lang_name": "angli\u010dtina",
-    "lang_showname": "English",
-    "lang_abbr": "EN",
-    "lang_active": "1",
-    "lang_redirect": "1",
-    "lang_tld": "eu"
-  },
-  {
-    "lang_id": "3",
-    "lang_name": "nem\u010dina",
-    "lang_showname": "Deutsch",
-    "lang_abbr": "DE",
-    "lang_active": "1",
-    "lang_redirect": "1",
-    "lang_tld": "de"
-  },
-  {
-    "lang_id": "4",
-    "lang_name": "\u0161paniel\u010dina",
-    "lang_showname": "Espa\u00f1ol",
-    "lang_abbr": "ES",
-    "lang_active": "0",
-    "lang_redirect": "1",
-    "lang_tld": "es"
-  },
-  {
-    "lang_id": "5",
-    "lang_name": "franc\u00faz\u0161tina",
-    "lang_showname": "Fran\u00e7ais",
-    "lang_abbr": "FR",
-    "lang_active": "1",
-    "lang_redirect": "1",
-    "lang_tld": "fr"
-  },
-  {
-    "lang_id": "6",
-    "lang_name": "talian\u010dina",
-    "lang_showname": "Italiano",
-    "lang_abbr": "IT",
-    "lang_active": "0",
-    "lang_redirect": "1",
-    "lang_tld": "it"
-  },
-  {
-    "lang_id": "7",
-    "lang_name": "\u010de\u0161tina",
-    "lang_showname": "\u010cesky",
-    "lang_abbr": "CZ",
-    "lang_active": "0",
-    "lang_redirect": "1",
-    "lang_tld": "cz"
-  },
-  {
-    "lang_id": "8",
-    "lang_name": "ma\u010far\u010dina",
-    "lang_showname": "magyar",
-    "lang_abbr": "HU",
-    "lang_active": "1",
-    "lang_redirect": "1",
-    "lang_tld": "hu"
-  },
-  {
-    "lang_id": "9",
-    "lang_name": "po\u013e\u0161tina",
-    "lang_showname": "Polski",
-    "lang_abbr": "PL",
-    "lang_active": "0",
-    "lang_redirect": "1",
-    "lang_tld": "pl"
-  },
-  {
-    "lang_id": "10",
-    "lang_name": "holand\u010dina",
-    "lang_showname": "Dutch",
-    "lang_abbr": "NL",
-    "lang_active": "0",
-    "lang_redirect": "1",
-    "lang_tld": "nl"
-  },
-  {
-    "lang_id": "11",
-    "lang_name": "rumun\u010dina",
-    "lang_showname": "Rom\u00e2n\u0103",
-    "lang_abbr": "RO",
-    "lang_active": "1",
-    "lang_redirect": "1",
-    "lang_tld": "ro"
-  }
+  {"id":"1","name":"sloven\u010dina","printable_name":"Sloven\u010dina","iso":"SK","tld":"sk","lang":"sk","active":"1","redirect":"0"},
+  {"id":"2","name":"angli\u010dtina","printable_name":"English","iso":"EN","tld":"eu","lang":"en","active":"1","redirect":"0"},
+  {"id":"3","name":"nem\u010dina","printable_name":"Deutsch","iso":"DE","tld":"de","lang":"de","active":"1","redirect":"0"},
+  {"id":"4","name":"\u0161paniel\u010dina","printable_name":"Espa\u00f1ol","iso":"ES","tld":"es","lang":"es","active":"1","redirect":"0"},
+  {"id":"5","name":"franc\u00faz\u0161tina","printable_name":"Fran\u00e7ais","iso":"FR","tld":"fr","lang":"fr","active":"1","redirect":"0"},
+  {"id":"6","name":"talian\u010dina","printable_name":"Italiano","iso":"IT","tld":"it","lang":"it","active":"1","redirect":"0"},
+  {"id":"7","name":"\u010de\u0161tina","printable_name":"\u010cesky","iso":"CZ","tld":"cz","lang":"cs","active":"1","redirect":"0"},
+  {"id":"8","name":"ma\u010far\u010dina","printable_name":"magyar","iso":"HU","tld":"hu","lang":"hu","active":"1","redirect":"0"},
+  {"id":"9","name":"po\u013e\u0161tina","printable_name":"Polski","iso":"PL","tld":"pl","lang":"pl","active":"1","redirect":"0"},
+  {"id":"10","name":"holand\u010dina","printable_name":"Dutch","iso":"NL","tld":"nl","lang":"nl","active":"1","redirect":"0"},
+  {"id":"11","name":"rumun\u010dina","printable_name":"Rom\u00e2n\u0103","iso":"RO","tld":"ro","lang":"ro","active":"1","redirect":"0"}
 ]
