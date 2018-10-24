@@ -4,4 +4,10 @@
   {"id":"3","key":"social","value":"{\"yt_page\":null,\"fb_page\":null,\"instagram_page\":null,\"twitter_page\":null}"},
   {"id":"4","key":"notifications","value":"{\"sms_sender\":null,\"signature\":null}"},
   {"id":"5","key":"analytics","value":"{\"fb_app_id\":null,\"ga\":{\"fallback\":\"fallback\",\"sk\":\"sk\",\"en\":null,\"de\":null,\"es\":null,\"fr\":null,\"it\":null,\"cz\":null,\"hu\":null,\"pl\":null,\"nl\":null,\"ro\":null},\"fb\":{\"fallback\":null,\"sk\":null,\"en\":null,\"de\":null,\"es\":null,\"fr\":null,\"it\":null,\"cz\":null,\"hu\":null,\"pl\":null,\"nl\":null,\"ro\":null}}"}
+  {"id":"6","key":"payments","value":"[]"},
+  {"id":"7","key":"redirects","value":"[]"},
+  {"id":"8","key":"apaczka","value":"[]"},
+  {"id":"9","key":"post","value":"[]"},
+  {"id":"10","key":"wheel","value":"[]"},
+  {"id":"11","key":"invoice","value":"[]"}
 ]
