@@ -3,7 +3,7 @@
   {"id":"2","key":"images","value":"{\"img_quality\":\"90\",\"img_max_width\":\"900\",\"img_max_height\":\"900\",\"thumb_max_width\":\"200\",\"thumb_max_height\":\"200\",\"wm_min_height\":\"150\",\"wm_position\":\"1\"}"},
   {"id":"3","key":"social","value":"{\"yt_page\":null,\"fb_page\":null,\"instagram_page\":null,\"twitter_page\":null}"},
   {"id":"4","key":"notifications","value":"{\"sms_sender\":null,\"signature\":null}"},
-  {"id":"5","key":"analytics","value":"{\"fb_app_id\":null,\"ga\":{\"fallback\":\"fallback\",\"sk\":\"sk\",\"en\":null,\"de\":null,\"es\":null,\"fr\":null,\"it\":null,\"cz\":null,\"hu\":null,\"pl\":null,\"nl\":null,\"ro\":null},\"fb\":{\"fallback\":null,\"sk\":null,\"en\":null,\"de\":null,\"es\":null,\"fr\":null,\"it\":null,\"cz\":null,\"hu\":null,\"pl\":null,\"nl\":null,\"ro\":null}}"}
+  {"id":"5","key":"analytics","value":"{\"fb_app_id\":null,\"ga\":{\"fallback\":\"fallback\",\"sk\":\"sk\",\"en\":null,\"de\":null,\"es\":null,\"fr\":null,\"it\":null,\"cz\":null,\"hu\":null,\"pl\":null,\"nl\":null,\"ro\":null},\"fb\":{\"fallback\":null,\"sk\":null,\"en\":null,\"de\":null,\"es\":null,\"fr\":null,\"it\":null,\"cz\":null,\"hu\":null,\"pl\":null,\"nl\":null,\"ro\":null}}"},
   {"id":"6","key":"payments","value":"[]"},
   {"id":"7","key":"redirects","value":"[]"},
   {"id":"8","key":"apaczka","value":"[]"},
